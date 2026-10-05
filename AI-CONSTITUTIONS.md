@@ -77,8 +77,13 @@ separate arguments.
   attention, images, status, and connectivity.
 - [Two fires and finitude](03-TWO-FIRES-AND-FINITUDE.md): forgetting, sacred
   opacity, ritual agency, memory, and retirement.
-- [Personas](PERSONAS.md): a planned method for exposing competing needs and
-  interpretations, to complement engagement with affected participants.
+- [Membrionics](MEMBRIONICS.md): a vocabulary of membrane architecture
+  (crossings, reversibility, memory, sanction, grace, life cycle) and
+  comparative cases; proposes reading a constitution as a membrane
+  specification.
+- [Personas](PERSONAS.md) and the [pilot](PERSONA-PILOT.md): authored voices
+  for exposing competing needs, to complement engagement with affected
+  participants.
 
 These materials contain proposals to examine, not settled constitutional law.
 
@@ -112,7 +117,9 @@ people's likenesses; local display from publication; creative memory from
 complaint evidence; and open code from open personal data. It also calls for
 verified provider boundaries, accessible and resourced recourse, and authority
 to pause a disputed use. These are candidate design requirements, not findings
-about law or current organizational practice.
+about law or current organizational practice. The pilot tested only a weak
+draft with six like-minded voices, so these revisions are a floor, not a
+stress test.
 
 Positive experimental space remains part of the framework: an agreement can
 bound consequential exposure while leaving creative outcomes unspecified.

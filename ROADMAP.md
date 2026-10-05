@@ -26,7 +26,8 @@ the cultural research and the constitutional proposals.
 | --- | --- | --- |
 | [Extending beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md) | Initial research pass dated 2026-09-18; provisional four-dimensional model, sources, and three companion essays exist | Test the model against successful and failed cases; clarify portability and the place of finitude |
 | [AI constitutions](AI-CONSTITUTIONS.md) | New project brief; existing cybernetic commitments and finitude essay provide starting material | Map actors, powers, and data flows; develop scenarios and a common constitution template |
-| [Personas for inquiry and critique](PERSONAS.md) | Six fictional pilot records, initial source notes, and a shared AI-photo critique drafted | Test another scenario and compare questions with affected participants |
+| [Membrionics](MEMBRIONICS.md) | First-pass brief: membrane vocabulary, biological analogies with limits, comparative cases (mobile foragers, settled commons, hill and valley, nomad–city cycles, Romani law, ritual forgetting, designed grace), seven hypotheses, AI implications | Close-read priority sources; test the exit-cost and designed-apoptosis hypotheses; document Burning Man's own membrane mechanisms from primary sources |
+| [Personas for inquiry and critique](PERSONAS.md) | Six basis voices piloted on one AI-photo scenario; off-diagonal voices identified | After membrionics: add dissenting voices, test against actual image-use terms, fill the membrane grid |
 
 These are document states, not claims of empirical validation. No constitution
 has been adopted, no current organizational AI practices have been audited,
@@ -55,7 +56,9 @@ The former `PROJECT-GOAL.md` research text and source list now live in
 1. **Frame the constitutional problem.** Inventory actors, affected people,
    decisions, data flows, and sources of authority across organizational AI,
    creative uses, and participant-built systems. Separate documented practices
-   from imagined scenarios.
+   from imagined scenarios. Study how cultures have designed their boundaries
+   (membrionics) so that constitutions can be written as membrane
+   specifications.
 2. **Build a small critique toolkit.** Research the persona lenses, draft a
    pilot set, and review their blind spots before relying on them.
 3. **Develop contrasting scenarios.** Start with organizational allocation or
@@ -78,5 +81,9 @@ Use qualitative feedback without turning community, intimacy, or liminality
 into optimization targets. Preserve disagreements that require participant
 judgment rather than hiding them in a fluent synthesis.
 
-Material in [`../unmoored_self/`](../unmoored_self/) remains a read-only  
-conceptual source; all outputs for this project belong here.  To the extent that conversations and thinking in this project may be meaningful improvements/edits/refinements on the ideas in Unmoored Self, add them to a separate file (perhaps "Updates to Unmoored Self").
+Material in [`../unmoored_self/`](../unmoored_self/) remains a read-only
+conceptual source; all outputs for this project belong here. Proposed
+refinements to its ideas go in
+[`UPDATES-TO-UNMOORED-SELF.md`](UPDATES-TO-UNMOORED-SELF.md).
+
+A cross-agent synopsis of work sessions is kept in [`agent.log`](agent.log).

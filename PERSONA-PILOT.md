@@ -1,18 +1,16 @@
 # Six Voices at the Membrane
 
-**Status:** Fictional pilot, 2026-10-05. These are authored perspectives, not
-interviews, psychological assessments, or independent votes. Sources and lens
-limitations are in [PERSONAS.md](PERSONAS.md). Each persona can critique both
-the cultural research and [AI constitutions](AI-CONSTITUTIONS.md).
+**Status:** Fictional pilot of the six basis voices, 2026-10-05. The epistemic
+status, lens limitations, and off-diagonal voices are in
+[PERSONAS.md](PERSONAS.md); everything below is authored, not evidence. Each
+persona can critique the cultural research, [membrionics](MEMBRIONICS.md),
+and [AI constitutions](AI-CONSTITUTIONS.md).
 
 ## How to Use the Voices
 
 Keep the scenario facts fixed. Let each voice identify a possibility worth
 cultivating, a threatened relationship, a boundary decision, and a proposed
-amendment. Ask where their position fails as well as where it helps. The
-Enneagram motifs below are narrative prompts; Kegan-informed questions concern
-meaning-making without assigning stages; McClelland-informed motives are
-qualitative, invented descriptions. No combination claims predictive validity.
+amendment. Ask where their position fails as well as where it helps.
 
 | Persona | Role | Membrane emphasis | Characteristic danger |
 | --- | --- | --- | --- |
@@ -22,9 +20,6 @@ qualitative, invented descriptions. No combination claims predictive validity.
 | Harbor | Caregiver | Refuge, low-cost refusal, grace after repair | Controlling others in the name of care |
 | Ledger | Steward | Legible authority, accountability, institutional renewal | Preserving the office instead of its purpose |
 | Kite | Wayfarer | Exit, return, portability, and obligations across boundaries | Treating mobility as available to everyone |
-
-All roles are invented contemporary functions. None speaks for a tribe,
-spiritual lineage, demographic group, or the Burning Man organization.
 
 ## Rook — The Jester Who Needs to Belong
 
@@ -363,7 +358,8 @@ will be deleted after the event. Later publication needs the submitter's
 approval. The camp lead hears complaints and may remove an image.
 
 Neither the facts nor this proposal describe an actual installation or policy.
-The critique below is authored application, not participant evidence.
+The draft is deliberately minimal, which makes it easy to criticize; a later
+pass should test a strong draft or Burning Man's actual image-use terms.
 
 | Voice | What they welcome | Power or need the draft misses | Refusal problem | Requested amendment |
 | --- | --- | --- | --- | --- |
@@ -375,8 +371,6 @@ The critique below is authored application, not participant evidence.
 | Kite | A newcomer contributing without credentials | Bystanders and public-route users have no standing in the consent form | Avoiding a public route is not a meaningful opt-out | Give depicted people standing; separate local display from later reuse; avoid global identity or reputation records |
 
 ## Candidate Revision Produced by the Exercise
-
-This is a project design proposal, not a legal conclusion or a final charter.
 
 1. **Define the boundary before collecting.** Name the operators, the physical
    participation area, provider access, and intended audiences. A public route
@@ -441,5 +435,7 @@ retire an agent whose relationships now extend beyond its builders?
 Take these questions to participants. Check especially whether the six voices
 miss pleasure without contribution, ambivalence, disability-related needs,
 resource constraints, provider leverage, or responsibilities to neighboring
-communities. A voice that always confirms the author's preferred solution
-should be rewritten or retired.
+communities; [PERSONAS.md](PERSONAS.md) lists off-diagonal voices for these
+gaps. All six voices converged on the same direction of amendment, which
+suggests the basis is too homogeneous. A voice that always confirms the
+author's preferred solution should be rewritten or retired.

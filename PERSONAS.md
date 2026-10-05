@@ -1,80 +1,114 @@
 # Personas for Inquiry and Critique
 
-**Status:** Six pilot personas and a first worked critique developed 2026-10-05.
-Initial source notes are below; comparative cultural research and participant
-validation remain pending. See [`ROADMAP.md`](ROADMAP.md).
+**Status:** Six pilot personas and one worked critique drafted 2026-10-05;
+off-diagonal voices identified but not yet written. See
+[`ROADMAP.md`](ROADMAP.md).
+
+**Epistemic status (applies to this file and
+[`PERSONA-PILOT.md`](PERSONA-PILOT.md)).** Personas are authored perspectives
+for inquiry. They are not interviews, psychological assessments, independent
+votes, or evidence of participant support, and they do not represent any
+people, tradition, or organization. Psychological lenses supply writing
+prompts, not diagnoses. Agreement among personas is not consensus. Their use is
+to generate questions for actual participants and expose the researcher's own
+assumptions.
 
 ## Purpose
 
 Create a small set of personas that inform and critique the research on
-[extending beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md) and
-[AI constitutions](AI-CONSTITUTIONS.md). They should expose different needs,
-ways of making meaning, responses to power, and interpretations of play,
-ritual, technology, and obligation.
+[extending beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md),
+[membrionics](MEMBRIONICS.md), and [AI constitutions](AI-CONSTITUTIONS.md).
+They should expose different needs, ways of making meaning, responses to
+power, and interpretations of play, ritual, technology, and obligation.
 
-Personas are constructed perspectives for inquiry. They do not stand in for
-consulting participants or establish what a psychological type would believe.
+## Basis and Off-diagonal Voices
 
-## Lenses to Research
+The project's thesis is that playa magic emerges from a dynamic assemblage of
+participants, not from a few essential roles. The persona set borrows a
+linear-algebra image to say this without ranking anyone:
 
-Keep the lenses distinct before experimenting with combinations. Their
-empirical support, intended uses, and limitations require a source review.
+- The **pilot basis** is six voices chosen as convenient coordinates for
+  describing a culture's functions: disruption, ritual, building, care,
+  stewardship, and travel. A basis is a choice of description, not a claim
+  that these people matter more.
+- **Off-diagonal voices** live in the couplings between functions, or outside
+  the basis entirely. In a matrix, the off-diagonal terms are where the
+  interactions are. If the magic is emergent, much of it may live here.
 
+### Pilot basis
 
-| Lens                                       | Proposed use                                                                   | Question to resolve before use                                                                    |
-| ------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| Enneagram                                  | Generate contrasting motivations, fears, and coping narratives                 | Which claims are supported, and which should remain narrative prompts?                            |
-| Kegan's constructive-developmental model   | Explore differences in meaning-making and relationships to norms and authority | How can it inform critique without ranking people or assigning stages from thin evidence?         |
-| McClelland's needs theory                  | Explore tensions among achievement, affiliation, and power                     | How should personal motives be distinguished from institutional position and incentives?          |
-| Archetypal roles such as Jester and Shaman | Explore functions of disruption, ritual, mediation, and cultural continuity    | Which traditions are being referenced, and where does a generic label erase cultural specificity? |
+Jester (Rook), Ritual Keeper (Ember), Builder (Patch), Caregiver (Harbor),
+Steward (Ledger), and Wayfarer (Kite). Full records and the first critique are
+in [`PERSONA-PILOT.md`](PERSONA-PILOT.md). These are invented contemporary
+roles, not representatives of particular peoples or inherited spiritual
+offices.
 
+### Off-diagonal voices (candidates, not yet written)
 
-Use “tribal archetypes” as an originating prompt to investigate, not an
+Several would push back against the pilot's consent-oriented consensus. That
+is the point: the six basis voices agreed too readily in the first scenario.
+
+| Voice | Why they matter | Likely challenge to the current framing |
+| --- | --- | --- |
+| Documentarian or photographer | Records the culture; public memory depends on them | Public space is public; consent friction kills the art and the archive |
+| AI enthusiast | Builds or wants ambient assistants and persistent memory | The framework is precautionary by default and forecloses the AI born of the playa |
+| Turnkey-camp guest | Comes to enjoy, pays for comfort, contributes little | Pleasure without contribution is legitimate; participation norms are class-coded |
+| Paid worker | DPW, Gate, medical, or contractor staff who keep the city running | Gift-economy language hides wage labor and different exit options |
+| Organization staff | Responsible for ticketing, safety, legal exposure, and budget | Community ideals meet liability, regulators, and scale |
+| Vendor or AI provider | Controls models, storage, and terms of service | Many promised boundaries depend on contracts they set |
+| Neighboring community | Gerlach and Empire residents; the Pyramid Lake Paiute Tribe, whose lands and roads the event affects | The membrane exports traffic, waste, and attention to people who never opted in |
+| Law enforcement or land agency | BLM rangers, county sheriff | The city's membrane is nested inside public law; they decide what it may exclude |
+| Child or family camper | Present without choosing the culture | Consent and liminality look different for minors and parents |
+| Aging or disabled veteran | Long tenure, declining capacity to endure ordeal | Ordeal as membrane excludes those who built the culture |
+| Someone excluded | Could not get or afford a ticket, or was banned | Who stands outside the membrane, and is there a path in or back? |
+| Online spectator | Experiences the event only through images and streams | Image export creates an outer audience with its own claims |
+| Lapsed burner | Left disillusioned or burned out | What the culture fails to repair, and what follows people out |
+| Regional organizer abroad | Adapts the culture to different law and economics | Portability of principles; whose defaults are universal |
+| Commercial infiltrator | Brand or influencer seeking marketable exposure | Tests decommodification and image rules in practice |
+| The researcher | The author of this project | Their preferences shape every persona; they need a critic too |
+| The AI system itself | A participant-built agent with memory and some delegated power | Speaking "as" the system is a fiction; but what would a legitimate voice for it require? |
+
+Write records only for the voices that the next scenarios need. A voice earns
+a full record when it is likely to change a proposal.
+
+## Lenses and Their Limits
+
+Keep the lenses distinct; they are different kinds of material, not
+equivalent taxonomies.
+
+| Lens | Use in the pilot | Limit |
+| --- | --- | --- |
+| Enneagram | Contrasting motivations, fears, and coping narratives | Mixed reliability and validity; motifs are fictional prompts, not types ([review](https://pubmed.ncbi.nlm.nih.gov/33332604/)) |
+| Kegan's constructive-developmental model | Questions about belonging, self-authorship, and revising one's own framework | Dialogue cannot establish a stage; no stages assigned ([book](https://www.jstor.org/stable/j.ctv1pncpfb)) |
+| McClelland's needs theory | Tensions among achievement, affiliation, power, and avoidance | Authored descriptions, not scores from his methods ([book](https://www.cambridge.org/core/books/human-motivation/FE109A014F97354399BAF0E3602D593D)) |
+| Archetypal roles | Narrative functions such as disruption, ritual, and mediation | All six roles are invented; "Ritual Keeper" takes up a proposed Shaman function without claiming lineage |
+
+Use "tribal archetypes" as an originating prompt to investigate, not an
 assumption that these roles have one meaning across traditions. Document
-specific provenance when drawing on a tradition; identify invented roles as
-invented. Treat psychological lenses and cultural archetypes as different
-kinds of material rather than equivalent taxonomies.
+provenance when drawing on a specific tradition. The comparative cases in
+[`MEMBRIONICS.md`](MEMBRIONICS.md) (for example, the Ju/'hoansi practice of
+"insulting the meat" as an institutional Jester function) are the place to do
+that work before attributing traits to personas.
 
-## Pilot Scope
+First-pass observation: in the pilot, McClelland motives and Kegan questions
+barely differentiate the six voices. Revise or drop lenses that do not change
+what a persona says.
 
-The pilot uses six roles: Jester, Ritual Keeper, Builder, Caregiver, Steward,
-and Wayfarer. Their records are in [`PERSONA-PILOT.md`](PERSONA-PILOT.md).
-These are invented contemporary roles, not representatives of particular
-peoples or inherited spiritual offices.
-
-Vary practical circumstances alongside psychological lenses: a first-time
-participant and a veteran may differ in access, responsibility, visibility,
-resources, or exposure to surveillance even when their stated values overlap.
-Avoid making role, identity, motivation, and developmental perspective map
-neatly onto one another.
-
-## A Membrane-oriented Lens
-
-The architecture of membranes is incredibly important for this analysis, although most cultural studies tend to focus on the contents of the membrane. Consider artful uses of exclosures, enclosures, two-way vs one-way doors, punishments for transgression, institutionalized procedures for grace and forgetting (and even selective remembering is a kind of forgetting, given humans' naturally limited memories and recency bias).  This can become an unbounded research project in anthropology, so to keep it focused, let's start with two main areas to consider:
-
-- Differences in tribal rules for agrarian tribes that had to "settle down", versus more nomadic tribes. Could look into Native American, or aboriginal Australian (c.f. "Sand Talk" by Yunkaporta) tribes, as well as gypsies in Europe. Also mountain vs valley cultures in Africa.
-- The "burning of the Man" is the ultimate memento mori, although many inflect it into catharsis and psychological release (which is different than surrender). Can we extrapolate or center on a deeper principle about {Presence -&gt; non-attachment -&gt; openness to change and emergence}, that facilitates liminality at every level of existence? Using Pirsig's Metaphysics of Quality, this would be a restoration of Dyanmic Quality at each of the static levels, and showing their constructive integration (as opposed to "higher" static levels perceiving liminality at lower levels as pure destructive chaos). Related, this inquiry is somewhat about building institutional/cultural antibodies against the loss aversion cognitive bias that infects organizations and renders them stagnant.
-
-This exploration is inspired by ideas from the biological field of eukaryogenesis, and the Asgard Archaeons in particular. Their mechanism of extending structure beyond their membranes to collectively condition a liminal space in their vicinity (and thereby capture e.g. mitochondria) seems to rhyme with Ostrom-esque thinking regarding Commons and Peter Wang's thinking about "innovation commons".  This mechanic of individual faith/trust in investment into collective emergence is a dynamic that plays out at many levels in the natural world, from cells to open source ecosystems; and may even be informed by ideas from Assembly Theory or Prigogine -- his famous quote about small islands of order far from equilibrium speaks to ways that structure facilitates more energy density flow in physical systems like vortexes and spin glasses.
-
-Potentially relevant works to consider:
-
-- Death from a Distance
-- Legal Systems very different from ours
-- The Overstory (by Richard Powers)
-- Cognition in the Wild
+Vary practical circumstances alongside lenses: tenure, access, resources,
+visibility, and exposure to surveillance. Avoid making role, identity,
+motivation, and developmental perspective map neatly onto one another.
 
 ## Persona Record
 
-Each record should contain:
+Each record contains:
 
-- Name, role, and a short situated biography, explicitly fictional or composite.
+- Name, role, and a short situated biography, explicitly fictional.
 - Motivations, fears, obligations, resources, and position in power relations.
-- Psychological lenses used, with sources and limits; archetypal provenance
-where relevant.
+- Lenses used, and archetypal provenance where relevant.
 - What the persona hopes AI could make possible on the playa.
+- Membrane practice: what they would hold in, keep out, let cross, and forgive.
 - What they would protect, refuse, or challenge in a constitution.
-- A contradiction or blind spot, and a circumstance that might change their view.
+- A blind spot, and a circumstance that might change their view.
 - Questions in their own voice, followed by the author's interpretation.
 
 ## Critique Method
@@ -82,145 +116,37 @@ where relevant.
 Give every persona the same concrete scenario and draft proposal. Ask what
 they welcome, who gains power, whose needs disappear, how refusal works, and
 what amendment they would request. Record conflicts across perspectives,
-including disagreements that cannot be reconciled by changing the wording.
+including disagreements that wording cannot reconcile. Keep scenario facts
+separate from invented responses.
 
-Separate scenario facts from invented responses. Do not claim consensus from
-persona agreement or count synthetic voices as evidence of participant support.
-Use the exercise to generate questions for actual participants and to reveal
-assumptions in the researcher's own framing.
-
-## First Deliverables
-
-1. A short source-and-limitations note for each chosen lens.
-2. Four to six pilot persona records using the shared format.
-3. A worked critique of AI art made from participant photographs, including  
-bystanders, later reuse, and contested withdrawal.
-4. Revisions to the constitution framework and a record of remaining tensions.
-
-Keep this project small until the pilot shows that it changes the questions or
-proposals in a useful way.
-
-## Operationalizing the Membrane Lens
-
-The pilot translates the originating ideas above into questions each persona
-must answer. A membrane can preserve a space while also extending invitations,
-shared infrastructure, and possibilities into its surroundings.
+Each voice also answers the membrane questions below, drawn from the
+vocabulary in [`MEMBRIONICS.md`](MEMBRIONICS.md):
 
 | Mechanism | Question for every persona |
 | --- | --- |
-| Enclosure and exclosure | What must be held inside, and what must be kept outside? Who is protected or stranded? |
-| Doors and asymmetry | Who may enter, exit, return, or export material? Which crossings cannot actually be reversed? |
+| Enclosure and exclosure | What must be held inside, and what kept outside? Who is protected or stranded? |
+| Doors and asymmetry | Who may enter, exit, return, or export material? Which crossings cannot be reversed? |
 | Transgression and sanction | Which rule-breaking renews the culture, which harms people, and who decides? |
 | Grace and forgetting | How can someone return after repair? What may expire, and what evidence must remain? |
 | Selective remembering | Who chooses the story that survives? Whose contributions or injuries disappear? |
-| Outward investment | What can people contribute to an uncertain shared possibility without surrendering control of themselves? |
+| Outward investment | What can people contribute to a shared possibility without surrendering control of themselves? |
 | Presence and non-attachment | What can be relinquished without abandoning obligations or imposing loss on others? |
-| Institutional renewal | Which roles, rules, models, and privileges should be revisable or temporary? Who pays for change? |
+| Institutional renewal | Which roles, rules, models, and privileges should be temporary? Who pays for change? |
 
-**Working hypothesis:** presence → non-attachment → openness to change and
-emergence is a sequence to investigate, not an established causal law.
-Distinguish catharsis (release), surrender (relinquishing control over an
-outcome), and neglect (abandoning an obligation). A participant can choose to
-burn their own offering without authorizing the destruction of someone else's
-memory or evidence.
+The first pilot did not answer these systematically; a persona-by-mechanism
+grid is a pending task.
 
-Using Pirsig's vocabulary as a project interpretation, examine how static
-patterns can support encounters with Dynamic Quality instead of simply
-suppressing them. For the pilot, ask separately about material conditions,
-bodily life, social roles, and intellectual frameworks. This is an application
-of a philosophical lens, not a measurement of levels or a psychological ranking.
-Continuity and emergence need constructive integration: bodily safety can make
-social experimentation possible, and an intellectual rule can also mistakenly
-classify unfamiliar social behavior as disorder.
+## Deliverables and Progress
 
-Treat organizational loss aversion as a candidate explanation alongside sunk
-costs, unequal exposure to risk, accumulated knowledge, and vested interests.
-Reluctance to change may protect people from losses that an experimenter does
-not personally bear. The proposed cultural “antibodies” are funded experiments,
-reviewable authority, succession, sunset review, and honorable retirement;
-their effects must be tested rather than presumed.
+| Deliverable | State |
+| --- | --- |
+| 1. Source-and-limitations note per lens | Initial notes in the lens table above |
+| 2. Four to six pilot persona records | Six drafted in [`PERSONA-PILOT.md`](PERSONA-PILOT.md) |
+| 3. Worked critique of AI art from participant photographs | Drafted in the pilot; tests only a deliberately weak draft |
+| 4. Revisions to the constitution framework | Candidate revisions recorded in [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) |
 
-## Initial Source and Limitations Notes
-
-Sources checked 2026-10-05. These notes use research abstracts, author material,
-and publisher descriptions where available; they do not claim a full reading
-of every suggested book.
-
-- **Enneagram:** Hook and colleagues' review of 104 samples reports mixed
-  reliability and validity, with little evidence for some secondary features.
-  Use the familiar type motifs as fictional writing prompts, not validated
-  diagnoses or predictors. The pilot's numbers do not assert a person's type.
-  [Research review](https://pubmed.ncbi.nlm.nih.gov/33332604/).
-- **Kegan:** *In Over Our Heads* examines the fit between demands of modern
-  life and meaning-making capacities. The pilot borrows questions about
-  belonging, self-authored commitments, and the revisability of one's own
-  framework. It assigns no developmental stages; dialogue cannot establish
-  a stage. [Author's book](https://www.jstor.org/stable/j.ctv1pncpfb).
-- **McClelland:** *Human Motivation* treats achievement, power, affiliation,
-  and avoidance. The pilot uses qualitative motivational tensions, including
-  avoidance of rejection or failure; these are authored descriptions, not
-  scores obtained through his measurement methods.
-  [Book and research scope](https://www.cambridge.org/core/books/human-motivation/FE109A014F97354399BAF0E3602D593D).
-- **Archetypal roles:** All six roles are invented for this inquiry. “Ritual
-  Keeper” takes up the proposed Shaman function without claiming initiation,
-  lineage, or universal cultural equivalence. Role names describe narrative
-  functions; they supply no psychological evidence.
-- **Commons:** Ostrom's institutional work informs questions about boundaries,
-  rule-making, sanctions, and conflict resolution. Applying it to attention,
-  AI, or an innovation commons is a project extension, not an assumption that
-  these commons behave identically.
-  [Ostrom Workshop materials](https://ostromworkshop.indiana.edu/courses-teaching/teaching-tools/index.html).
-- **Distributed cognition:** Hutchins's ship-navigation research provides a
-  grounded way to ask how cognition is distributed across people, tools, and
-  arrangements. The application to playa AI is our inference.
-  [Author's account](https://pages.ucsd.edu/~ehutchins/citw.html).
-- **Asgard archaea:** Imachi and colleagues describe cultured cells with
-  protrusions and propose an entangle–engulf–endogenize model. This is not an
-  observation of historical mitochondrial acquisition. Extending a membrane
-  into a shared zone is a design analogy here; it does not demonstrate trust,
-  consent, or a political principle in cells.
-  [Primary research](https://www.nature.com/articles/s41586-019-1916-6).
-- **Pirsig:** *Lila* remains the named philosophical source. Detailed mappings
-  to static levels and Dynamic Quality require passage-level reading; the
-  pilot labels its application as interpretation.
-  [Publisher record](https://www.penguinrandomhouse.com/books/131519/lila-by-robert-pirsig/).
-
-## Bounded Comparative Research Queue
-
-The pilot contrasts a durable camp and a traveling collective as **invented
-institutional arrangements**, not agrarian and nomadic personality types.
-Future comparisons should select specific communities, periods, and practices:
-resource tenure, hospitality, exit, sanction, reintegration, and memory.
-Settlement alone cannot explain their rules. Investigate the proposed
-Native American, Aboriginal Australian, European Romani, and African mountain
-and valley comparisons through particular cases and relevant community voices
-before attributing cultural traits to personas.
-
-- **Sand Talk:** retain Yunkaporta's situated account as a reading priority;
-  extract particular arguments and their context rather than a generic
-  “Indigenous worldview.” [Publisher](https://www.textpublishing.com.au/books/sand-talk-9781922790514).
-- **Legal Systems Very Different from Ours:** use specific cases to challenge
-  assumptions about centralized enforcement and repair; check case claims
-  against the underlying sources. [Author's draft](https://digitalcommons.law.scu.edu/monographs/7/).
-- **Cognition in the Wild:** follow the initial source note with a close reading
-  of how tools, roles, and coordination distribute cognition.
-- **The Overstory:** retain as a literary prompt about duration, interdependence,
-  and attention; fictional examples are not ecological evidence.
-- **Death from a Distance:** confirm the intended author and edition before
-  drawing arguments from this title.
-- **Assembly Theory and Prigogine:** reserve for a separate source review. No
-  thermodynamic claim or remembered quotation is needed to validate the pilot.
-  Specify a mechanism and its limits before transferring physical language
-  such as energy flow or far-from-equilibrium order into social explanation.
-
-## Pilot Outputs and Next Review
-
-The [pilot records and common scenario critique](PERSONA-PILOT.md) complete
-first drafts of deliverables 2 and 3 above. The source notes partially address
-deliverable 1. The [AI constitution brief](AI-CONSTITUTIONS.md) now records
-candidate revisions and unresolved tensions from this exercise (deliverable 4).
-
-Next, use the same voices on organizational allocation and an AI born of the
-playa, then compare their questions with affected participants' responses.
-Revise or retire personas that repeatedly caricature a position or add no
-useful challenge. Keep a record of what each exercise changed in the proposal.
+Next, after the membrionics pass: add dissenting off-diagonal voices, test
+against Burning Man's actual image-use terms or a strong draft, fill the
+membrane grid, then run organizational-allocation and AI-born-of-the-playa
+scenarios. Keep a record of what each exercise changed in the proposal, and
+keep this project small until it demonstrably changes the questions.

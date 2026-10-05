@@ -19,5 +19,8 @@ When asked to "process directives" (or "process comments"):
 
 Find open directives with: `grep -rn "@@" .`
 
+## Agent log
+Append an entry to `agent.log` at the end of any session that changes project files. Newest entries go at the bottom. Use the format described at the top of that file: date, agent family and model, a one-line summary, files touched, and open threads for the next agent. Keep entries to a synopsis; the files and git history hold the detail.
+
 
 

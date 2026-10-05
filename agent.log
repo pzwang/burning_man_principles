@@ -1,0 +1,61 @@
+AGENT LOG -- cross-agent synopsis of work sessions
+==================================================
+Append new entries at the bottom. One entry per working session that changes
+project files. Keep it to a synopsis; detail lives in the files and git history.
+
+Entry format:
+
+  ## YYYY-MM-DD | <family> (<model>) | <one-line summary>
+  - Did: what changed and why (a few bullets)
+  - Files: files created / modified / deleted
+  - Open: threads, caveats, or next steps for the next agent
+  - Commit: hash if committed, else "uncommitted"
+
+--------------------------------------------------------------------------
+
+## 2026-10-05 | Claude (claude-opus-5-5) | Review of GPT first pass; membrionics brief; doc cleanup
+- Context: commit 330d572 checkpoints GPT's earlier first pass (split of
+  PROJECT-GOAL.md into ROADMAP.md + BEYOND-TEN-PRINCIPLES.md; new
+  AI-CONSTITUTIONS.md, PERSONAS.md, PERSONA-PILOT.md). Claude reviewed it;
+  user chose to push on membranes first and defer persona stress-testing.
+- Did: created MEMBRIONICS.md (term attributed by the user to Jim Rutt):
+  membrane vocabulary, biological analogies with stated limits (chemiosmosis,
+  autopoiesis, apoptosis, Asgard extend/entangle/endogenize), comparative
+  cases (Woodburn, Boehm, Lee, Bingham & Souza, Ostrom, Valencia water court,
+  Olson, Scott x3, Ibn Khaldun, Romani law, Aboriginal name avoidance,
+  Haudenosaunee Condolence, potlatch, ostracism, jubilee, Benedictine Rule,
+  Nuer), 7 hypotheses, AI-constitution implications. Moved the user's
+  originating membrane notes there from PERSONAS.md (typos fixed).
+- Did: restructured PERSONAS.md (single epistemic-status block, lens table
+  with limits, "pilot basis" vs "off-diagonal voices" framing with 17
+  candidate voices, deliverables table). Trimmed repeated disclaimers in
+  PERSONA-PILOT.md; updated AI-CONSTITUTIONS.md starting materials.
+- Did: created UPDATES-TO-UNMOORED-SELF.md (4 proposed refinements: exit
+  "into what", membrane as energy transducer, self-binding needs designed
+  release, legibility). Updated ROADMAP.md; added agent-log rule to AGENTS.md.
+- Files: +MEMBRIONICS.md, +UPDATES-TO-UNMOORED-SELF.md, +agent.log;
+  ~PERSONAS.md, ~PERSONA-PILOT.md, ~AI-CONSTITUTIONS.md, ~ROADMAP.md, ~AGENTS.md
+- Open: MEMBRIONICS case summaries are from memory of secondary literature;
+  items marked (verify) need checking (Valencia court practice, Nuer account). Jim Rutt source not located.
+  Agreed next steps after this: (1) dissenting off-diagonal personas + test
+  against BM's actual image-use terms; (2) persona x membrane grid;
+  (3) restructure AI-CONSTITUTIONS.md as shared protection layer + local
+  charters, template as membrane spec; (4) comparative close readings.
+- Commit: uncommitted
+
+## 2026-10-05 | Claude (claude-opus-5-5) | Value gradients; deep-research prompt
+- Did: user confirmed Death from a Distance = Bingham & Souza (2009); removed
+  (verify) flags. Reworded MEMBRIONICS.md status to point to a deep-research
+  pass instead of disclaiming sources.
+- Did: added "Value Gradients Versus Flat Markets" to MEMBRIONICS.md (user's
+  idea: gradient of shared values vs market of valueless artifacts; Kopytoff,
+  Mauss, Hyde, Bohannan, Walzer, Polanyi, Fiske; arbitrage-as-diffusion
+  analogy) plus Hypothesis 8 and sources. Added entry 5 to
+  UPDATES-TO-UNMOORED-SELF.md (identity marketplace as gradient flattening).
+- Did: wrote prompts/membrionics-deep-research.md, a self-contained prompt
+  for a frontier research agent to verify and deepen the brief.
+- Files: ~MEMBRIONICS.md, ~UPDATES-TO-UNMOORED-SELF.md, ~agent.log,
+  +prompts/membrionics-deep-research.md
+- Open: when the research report returns, integrate it into MEMBRIONICS.md
+  and log what changed. Four agreed next steps from the previous entry stand.
+- Commit: uncommitted
