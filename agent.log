@@ -41,7 +41,7 @@ Entry format:
   against BM's actual image-use terms; (2) persona x membrane grid;
   (3) restructure AI-CONSTITUTIONS.md as shared protection layer + local
   charters, template as membrane spec; (4) comparative close readings.
-- Commit: uncommitted
+- Commit: 82402ab
 
 ## 2026-10-05 | Claude (claude-opus-5-5) | Value gradients; deep-research prompt
 - Did: user confirmed Death from a Distance = Bingham & Souza (2009); removed
@@ -58,4 +58,4 @@ Entry format:
   +prompts/membrionics-deep-research.md
 - Open: when the research report returns, integrate it into MEMBRIONICS.md
   and log what changed. Four agreed next steps from the previous entry stand.
-- Commit: uncommitted
+- Commit: 82402ab
