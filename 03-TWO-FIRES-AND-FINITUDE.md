@@ -5,7 +5,7 @@
 **Status:** Exploratory brief, 2026-09-18.
 
 This essay extends the load-bearing conditions and four-dimensional model in
-[`PROJECT-GOAL.md`](PROJECT-GOAL.md). It distinguishes historical evidence from
+[`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md). It distinguishes historical evidence from
 interpretation and does not claim one authorized or universal meaning for either
 Burn.
 

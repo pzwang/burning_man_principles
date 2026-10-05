@@ -1,6 +1,12 @@
-# Beyond the Ten Principles
+# Extending Beyond the Ten Principles of Burning Man
 
-## Project Goal
+This research project supplies the cultural and philosophical foundation for
+the broader work tracked in [`ROADMAP.md`](ROADMAP.md). Its initial synthesis
+and sources are preserved below; the AI material remains an input to the new
+[`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) project, rather than an adopted
+constitution.
+
+## Research Goal
 
 Deconstruct Burning Man's Ten Principles, identify the social and philosophical
 mechanisms that produce "playa magic," and evolve those mechanisms into a
