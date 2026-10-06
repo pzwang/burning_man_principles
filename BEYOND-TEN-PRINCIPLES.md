@@ -100,6 +100,10 @@ not a settled replacement for the Ten Principles.
 - [`03-TWO-FIRES-AND-FINITUDE.md`](03-TWO-FIRES-AND-FINITUDE.md), interpreting
   the Man and Temple as a ritual diptych and developing a constitution of
   finitude for AI.
+- [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md), examining the
+  receiving side of the gift, the conditions of receptivity, and how the
+  anticipated audience behind the camera diverts gifts and flows back onto the
+  playa.
 
 ### Historical View
 
@@ -196,9 +200,9 @@ The labels below indicate the mixture inside each item:
 | Principle | What kind of thing is it? | Systemic role | Actual enforcement and central tension |
 | --- | --- | --- | --- |
 | **Radical Inclusion** | V: welcome; N: respect the stranger; C: low cultural prerequisites | Entry condition and aspiration | Institutionally encouraged and informally policed, but tickets, cost, geography, race, disability, time, and insider networks make universal access false as a description. Inclusion of persons cannot imply permission for all conduct. |
-| **Gifting** | V: generosity; N: no equivalent return; P: give goods, art, care, labor, or experience; E: trust and abundance | Constitutive relational practice | Ordinary gifting is mostly cultural rather than audited. Commercial sale is enforced under Decommodification. Gifts can still buy status, create debt, conceal brands, impose unwanted experiences, or depend on invisible care labor. |
+| **Gifting** | V: generosity; N: no equivalent return; P: give goods, art, care, labor, or experience; E: trust and abundance | Constitutive relational practice | Ordinary gifting is mostly cultural rather than audited. Commercial sale is enforced under Decommodification. Gifts can still buy status, create debt, conceal brands, impose unwanted experiences, or depend on invisible care labor. The principle addresses giving but not receiving: a gift can also fail because the receiver is too insulated to need it or converts it into content elsewhere. |
 | **Decommodification** | V: persons and experiences are not products; N: resist advertising and transaction; C/G: maintain a protected nonmarket zone | Protective condition that disables a default script | Branding, vending, concierge packages, and some paid services are actively regulated. The boundary is porous: the city depends on tickets, equipment, travel, paid labor, and off-playa markets. Wealth can purchase insulation even when money is not exchanged on playa. |
-| **Radical Self-reliance** | V: capability; N: prepare; P: provision and skill-building; C: harsh environment | Capacity precondition and developmental practice | Strong expectation but unevenly enforceable; strain on shared resources can affect camp standing. Alone it can become neoliberal individualism, ableism, or victim blaming. Paired with Communal Effort, its better form is capable interdependence. |
+| **Radical Self-reliance** | V: capability; N: prepare; P: provision and skill-building; C: harsh environment | Capacity precondition and developmental practice | Strong expectation but unevenly enforceable; strain on shared resources can affect camp standing. Alone it can become neoliberal individualism, ableism, or victim blaming. Pushed to completion, it also blocks receiving: a person provisioned against every need cannot be given anything. Paired with Communal Effort, its better form is capable interdependence, which includes being capable of needing. |
 | **Radical Self-expression** | V: singularity and expressive autonomy; P: art, identity, performance; N: respect recipients' rights; E: novelty | Permission and aspirational virtue | Broadly celebrated and bounded by law, safety, consent, and others' liberty. "Expression" can become purchased costume, personal branding, domination by sound or scale, or an excuse to ignore recipients. |
 | **Communal Effort** | V: cooperation; P: build public space, art, networks, and infrastructure; G: distributed organization | Constitutive social production | Rewarded through placement, tickets, and institutional recognition. Risks include hidden hierarchy, unequal chores, charismatic capture, uncompensated labor, and burnout. |
 | **Civic Responsibility** | V: civil society and public welfare; N: assume responsibility; G: law, permits, Rangers, safety, organizer duty | Table stakes and control plane | Heavily institutionalized for organizers and safety-critical conduct. It enables liminal freedom but can also bureaucratize it or concentrate discretionary power. |
@@ -279,7 +283,10 @@ Consent prevents one person's agency from annexing another's.
 
 This dimension combines Radical Self-reliance, Radical Self-expression, and
 the person-facing side of Radical Inclusion. Self-reliance is generalized as
-**capable interdependence**, not isolated self-sufficiency.
+**capable interdependence**, not isolated self-sufficiency. Capable
+interdependence runs both ways: being able to contribute, and being **capable
+of needing**, so that others' gifts can land. See
+[`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).
 
 Failure poles: consumer dependency and learned helplessness at one end;
 atomized expressive sovereignty and domination at the other.
@@ -351,6 +358,9 @@ the original list barely names:
 - **Public spatial form:** architecture that convenes rather than merely houses.
 - **Cultural transmission:** camps, mentors, roles, stories, and repeated practice
   that turn text into habitus.
+- **Receptivity:** the conditions under which a person can be changed by what
+  they are given: need, time, willingness to be claimed, undivided attention,
+  and the capacity to pass the gift on. Gifting names only the giver's side.
 - **Consent:** a necessary boundary between expression and imposition.
 - **Privacy:** protection for unfinished selves, relationships, and local culture.
 - **Governance and recourse:** interpretation, mediation, enforcement, appeal,
