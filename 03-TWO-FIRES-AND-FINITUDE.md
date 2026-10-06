@@ -620,4 +620,4 @@ not claims about what participants believe or what the event officially means.
 
 ---
 
-*Related briefs: [`01-REGIONAL-BURNS.md`](01-REGIONAL-BURNS.md) and [`02-PERMEABLE-NOT-PURCHASABLE.md`](02-PERMEABLE-NOT-PURCHASABLE.md).*
+*Related briefs: [`01-REGIONAL-BURNS.md`](01-REGIONAL-BURNS.md), [`02-PERMEABLE-NOT-PURCHASABLE.md`](02-PERMEABLE-NOT-PURCHASABLE.md), and [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).*

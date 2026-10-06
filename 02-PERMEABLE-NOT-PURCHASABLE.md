@@ -69,6 +69,17 @@ generator that powers public art and accessible cooling crosses differently
 from a generator that sustains a sealed hospitality enclave, even if the
 machines are identical.
 
+Purchased exemption has a second cost that is easy to miss. It removes the
+participant from reciprocity as a giver, and it also removes them as a
+**receiver**. A gift can land only where there is some need. Someone whose
+every need is met by staff has bought away the condition under which the
+city's gifts could reach them; every offering becomes redundant. Ordeal, in
+this reading, matters less as proof of commitment than as the source of the
+real dependence that opens people to receive. The design goal is not equal
+hardship. It is that everyone, including those who need accommodation,
+encounters some real dependence on others. See
+[`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).
+
 ## 2. Plural Agency, Not One Correct Burn
 
 Repair cannot impose one physically demanding model of legitimate
@@ -103,12 +114,23 @@ repair and survival skill. The point is not compulsory labor at the gate. It is
 ritual transition: one arrives as a transported passenger and enters as someone
 with agency in a common world.
 
-Plural agency also preserves receptivity. Listening, grieving, witnessing,
-dancing, accepting care, or resting can all be participatory. The failure begins
-when a person treats builders, workers, performers, neighbors, and photographed
-strangers as replaceable infrastructure for their private experience.
+Greeters already run a version of this threshold. "Welcome home," the dust
+angel, and the bell are gifts a newcomer is made to receive and must accept by
+taking part. The Gate admits; the Greeters teach reception. An arrival commons
+would extend a working practice rather than invent one.
 
-> PW: Rewrite / unpack the first sentence in the above paragraph.
+Participation is not only production. Listening, grieving, witnessing,
+dancing, accepting care, and resting are participation when they are a way of
+*receiving* what others offer. Receiving differs from consuming in what it
+does to both parties: the giver is attended to as a particular person, and the
+receiver allows the gift to change them and later passes something on. A
+model of participation that counts only building and performing would exclude
+many elders, disabled people, and exhausted workers, and would miss half of
+the gift economy. The failure begins when a person treats builders, workers,
+performers, neighbors, and photographed strangers as replaceable
+infrastructure for their private experience: consuming without receiving.
+[`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md) develops the
+conditions of receptivity.
 
 ## 3. Reciprocal Co-Creation Beyond the Headliner
 
@@ -178,6 +200,16 @@ converted into raw material for status accumulation in another context. The
 subject cannot know the eventual audience, ranking system, model training use,
 or commercial association. A moment governed by local norms is silently moved
 into a global attention market.
+
+The flow also runs inward. The anticipated audience of followers becomes the
+mediator of the capturer's desire, in René Girard's sense: the experience is
+valued for what followers will want. Those expectations flow back through the
+phone onto the playa. They change behavior (posing, queuing, re-staging),
+create norms around "photo op" spots at particular artworks, and shape the art
+itself toward works made to be photographed rather than experienced. Funding
+that depends on compelling images can push in the same direction without any
+influencer involved. [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md)
+develops this outward diversion and inward counterflow.
 
 Follower count is not a reliable definition of this harm. It can overcapture
 artists, activists, educators, journalists, and marginalized storytellers.
@@ -325,4 +357,4 @@ the moment into content.
 
 ---
 
-*Related briefs: [`01-REGIONAL-BURNS.md`](01-REGIONAL-BURNS.md) and [`03-TWO-FIRES-AND-FINITUDE.md`](03-TWO-FIRES-AND-FINITUDE.md).*
+*Related briefs: [`01-REGIONAL-BURNS.md`](01-REGIONAL-BURNS.md), [`03-TWO-FIRES-AND-FINITUDE.md`](03-TWO-FIRES-AND-FINITUDE.md), and [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).*

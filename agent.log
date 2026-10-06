@@ -59,3 +59,56 @@ Entry format:
 - Open: when the research report returns, integrate it into MEMBRIONICS.md
   and log what changed. Four agreed next steps from the previous entry stand.
 - Commit: 82402ab
+
+
+## 2026-10-05 | GPT (GPT-6 / Codex) | Membrionics research and critical revision
+- Did: completed a sourced research pass across all nine requested sections;
+  added case dossiers, eight hypothesis judgments, conversion-boundary model,
+  biology/physics audit, Burning Man policy inventory, and AI design table.
+  Distinguished inspected passages from abstracts and unresolved full-text work.
+- Did: integrated corrections into the brief: grace without erasure, credible
+  exit, selective renewal rather than a compressed dynastic cycle, market
+  counter-cases, E3 phase distinction, and Rutt's documented “membranics” spelling.
+- Files: +MEMBRIONICS-RESEARCH.md; ~MEMBRIONICS.md, ~ROADMAP.md, ~agent.log
+- Open: report §9 prioritizes full Sand Talk and Romani/community-authored
+  readings, provisional Fur–Baggara evidence, institutional outcome data,
+  and tests of renewal and exit. AI pilot is a proposal, not implemented.
+  Public policies establish prescriptions; their practical enforcement remains
+  unverified. No constitution or persona files changed in this pass.
+- Commit: uncommitted
+
+## 2026-10-05 | Claude (claude-opus-5-5) | Gifts and commodities essay; receptivity threaded through docs
+- Did: wrote 04-GIFTS-AND-COMMODITIES.md from a conversation with the user:
+  gift literature with the research report's corrections; commodities, aura,
+  biography; Baudrillard's symbolic exchange, Cypher, Azuma (with fan gift
+  culture as counter-evidence); seven conditions of receiving with exposition
+  of undivided attention and the absent audience; three readings (self-
+  reliance blocks receiving, ordeal opens receivers, purchased exemption
+  forecloses receiving) plus Greeters as a receiving rite; outward diversion
+  and inward counterflow (Girard, Debord, precession of simulacra); design
+  proposals, AI implications, cautions, open questions.
+- Did: threaded the three readings into BEYOND-TEN-PRINCIPLES.md (Gifting and
+  Self-reliance rows, "capable of needing", Receptivity as implicit condition),
+  02 (exemption forecloses receiving, Greeters, counterflow paragraph), and
+  MEMBRIONICS.md (ordeal as source of receptivity; conversion pointer).
+  Resolved the "PW: Rewrite / unpack" note in 02 §2 by rewriting the
+  receptivity paragraph. Added cross-links in 01/02/03 and ROADMAP.md.
+- Files: +04-GIFTS-AND-COMMODITIES.md; ~BEYOND-TEN-PRINCIPLES.md,
+  ~02-PERMEABLE-NOT-PURCHASABLE.md, ~MEMBRIONICS.md, ~01-REGIONAL-BURNS.md,
+  ~03-TWO-FIRES-AND-FINITUDE.md, ~ROADMAP.md, ~agent.log
+- Open: quotes marked (verify) in 04 are from memory (Frost, Velveteen Rabbit,
+  Sontag, Weil, Freuchen, Barasch/Diehl findings). Counterflow claims about
+  photo-op norms and Instagram-oriented art are undocumented hypotheses;
+  need cases. GPT's membrionics revision and MEMBRIONICS-RESEARCH.md were
+  already uncommitted in the tree when this session began.
+- Commit: uncommitted
+
+## 2026-10-05 | GPT (GPT-6 / Codex) | Hohfeld and formation in the membrane map
+- Did: expanded research §4.4 with Hohfeld's four relations, the commons
+  rights bridge, and a distinct layer for formation through participation.
+  Added the entitlement-transfer diagnostic, distinguished changed standing
+  from changed capacities/values, and identified gatekeeping and AI implications.
+- Files: ~MEMBRIONICS-RESEARCH.md, ~agent.log
+- Open: Callard is supported by publisher abstract/chapter description;
+  full close reading remains. Cultural applications are marked as proposals.
+- Commit: uncommitted

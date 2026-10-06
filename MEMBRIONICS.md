@@ -1,31 +1,34 @@
 # Membrionics: The Architecture of Cultural Membranes
 
-**Status:** Research brief, first pass 2026-10-05. Proposes a vocabulary, a set
-of comparative cases, and testable hypotheses. A deep research pass with
-passage-level citations is specified in
-[`prompts/membrionics-deep-research.md`](prompts/membrionics-deep-research.md).
-See [`ROADMAP.md`](ROADMAP.md).
+**Status:** Research brief revised 2026-10-05 after the
+[research programme](prompts/membrionics-deep-research.md).
+The [research report](MEMBRIONICS-RESEARCH.md) supplies case dossiers,
+passage references, an evidence/access key, counterarguments, and remaining
+verification gaps. See also [ROADMAP.md](ROADMAP.md).
 
-*Membrionics* is a term the project author attributes to Jim Rutt (primary
-source still to be located). Here it names the study and design of the
-boundaries that let a culture exist: what they admit and exclude, how they are
-crossed, maintained, renewed, and retired, and how they reach beyond themselves.
+*Membrionics* is this project's name for studying the boundaries that let a
+culture exist: what they admit and exclude, how they are crossed, maintained,
+renewed, and retired, and how they reach beyond themselves. The author's
+attribution to Jim Rutt now has a qualified source: Rutt and Alexander Bard
+use **“membranics”** in their 2024 conversations, emphasizing permeability and
+overlapping memberships. Exact spelling and first coinage remain unverified;
+see [report §2.23](MEMBRIONICS-RESEARCH.md#223-rutt-bard-and-the-name).
 
-## Why Membranes, Not Contents
+## Studying Boundary Design Alongside Contents
 
-Most cultural analysis describes what lies inside a boundary: values, rituals,
-art, beliefs. The [four-dimensional model](BEYOND-TEN-PRINCIPLES.md) already
-names a *protective membrane* as one of four conditions for playa magic, and
-the essays on [regional burns](01-REGIONAL-BURNS.md) and
-[purchased exemption](02-PERMEABLE-NOT-PURCHASABLE.md) apply it. But the model
-still treats the membrane largely as a filter: good things in, bad things out.
+Boundary-centered cultural analysis has a substantial history, including
+Fredrik Barth's work. The project does not establish that boundaries matter
+more than contents. It asks how boundary arrangements sustain or undermine
+particular practices. The [four-dimensional model](BEYOND-TEN-PRINCIPLES.md)
+already names a *protective membrane*, and the essays on
+[regional burns](01-REGIONAL-BURNS.md) and
+[purchased exemption](02-PERMEABLE-NOT-PURCHASABLE.md) apply it.
 
-This brief argues that a membrane is better understood as an **active,
-maintained, energy-handling organ** with its own architecture, life cycle, and
-politics. The contents of a culture often matter less for its survival than
-the design of its boundaries. And AI systems change exactly the properties
-that boundaries depend on: memory, copying, inference, cost of crossing, and
-legibility.
+The strongest proposition after research concerns **conversion rights**:
+when can money, visibility, technical access, or reputation become authority
+inside a community? A membrane is an actively maintained arrangement of
+access, obligation, and recourse. AI changes its conditions through copying,
+inference, persistent records, and the cost of crossing.
 
 ## Originating Notes
 
@@ -85,6 +88,8 @@ none proves a social claim.
    gradient to make ATP. The boundary is where energy is captured. Nick Lane
    and William Martin argue that the eukaryotic leap depended on multiplying
    internal bioenergetic membranes via the mitochondrial endosymbiont.
+   Their explanation of complexity is contested; the report includes
+   Lynch and Marinov’s opposing energetic account.
    *Design question:* what gradient does a cultural membrane sustain, and what
    work does that gradient power? Burning Man's membrane sustains a gradient
    between gift and market, attention and distraction, default identity and
@@ -94,16 +99,24 @@ none proves a social claim.
    some require a key, and some require spending energy against a gradient.
    *Design question:* which crossings are free, which are gated, and which
    demand effort? The ordeal of getting to the playa is active transport.
+   One thing it produces is genuine need, and need is what lets a gift land:
+   a fully insulated participant cannot receive. This reframes ordeal as the
+   source of receptivity rather than proof of commitment; the design goal is
+   real interdependence for everyone, not equal hardship. See
+   [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).
 3. **The membrane is produced by what it encloses.** Maturana and Varela's
    *autopoiesis*: a living system produces the boundary that makes it a
-   system. A wall built by outsiders is not a membrane in this sense.
+   system. This is a theory of living organization, not a criterion that
+   excludes externally supported social boundaries.
    *Design question:* do participants make and remake the boundary, or is it
    administered to them? Black Rock City's perimeter, Gate, and Greeters are
-   partly participant-produced; ticketing and law enforcement are not.
+   partly participant-produced; organizational and state authority also
+   participate in maintaining its boundaries.
 4. **Boundaries have programmed endings.** Apoptosis removes cells in an
-   orderly way that protects the organism; necrosis spills contents and
-   inflames. *Design question:* can a role, rule, artwork, or model end
-   cleanly, or only by failure? The burn is a designed apoptosis of the city.
+   regulated way, often limiting inflammation; regulated necrotic pathways
+   also exist, so programmed versus accidental is not a clean binary. *Design question:* can a role, rule, artwork, or model end
+   cleanly, or only by failure? The burn suggests selective retirement; the organization,
+   assets, records, and many camp hierarchies persist.
 5. **Recognition of self and non-self can fail both ways.** Immune tolerance
    permits beneficial strangers (gut flora, pregnancy); autoimmunity attacks
    the self. *Design question:* what does cultural autoimmunity look like?
@@ -115,11 +128,14 @@ Asgard archaeon (*Prometheoarchaeum*) with long protrusions and proposed an
 *entangle–engulf–endogenize* model for eukaryogenesis: the host extends
 structure into its surroundings, forms close metabolic partnership with
 neighbors, and only later integrates one. This is a model, not an observed
-historical event. The useful abstraction is a **three-phase pattern**:
+historical event. The following **social adaptation** changes the source model’s phases:
+“extend” is ours; the source’s middle phase is “engulf.” Protrusions and
+metabolic partnerships are observed; incorporation is a historical hypothesis,
+and conditioning a commons is our inference:
 
 | Phase | Biological model | Social reading | Failure mode |
 | --- | --- | --- | --- |
-| Extend | Protrusions condition a zone beyond the cell | Invest structure in a shared clearing: tools, power, documentation, open invitations | Overreach that the host cannot maintain |
+| Extend | Observed protrusions; collective conditioning is unproven | Invest structure in a shared clearing: tools, power, documentation, open invitations | Overreach that the host cannot maintain |
 | Entangle | Metabolic exchange with neighbors in that zone | Reciprocity with strangers who keep their own boundaries | One-sided extraction by either party |
 | Endogenize | Partner integrated as organelle | Durable incorporation: new members, merged projects, adopted practices | **Capture**: absorbing people or data who did not choose integration |
 
@@ -131,14 +147,14 @@ retaining the right not to be absorbed. Ostrom's commons and open source are
 the human institutions that most clearly try to stabilize this zone.
 
 **Prigogine and Assembly Theory.** Prigogine's dissipative structures maintain
-local order by increasing throughput of energy; the order depends on flow and
-dissolves without it. The transferable claim is modest: cultural order that
+local order through exchanges with their environment away from equilibrium.
+This does not establish a general rule of maximizing energy throughput. The transferable claim is modest: cultural order that
 feels spontaneous may depend on continuous, often invisible, maintenance flow
 (volunteer labor, money, attention, care). Assembly Theory (Cronin, Walker,
 and colleagues, 2023) proposes measuring how much selection and history an
 object embodies. A possible use: rituals and institutions as high-assembly
-objects whose history cannot be reconstructed quickly once lost. Both remain
-a reserved source review; neither is needed to support the hypotheses below.
+objects whose history cannot be reconstructed quickly once lost. The [analogy audit](MEMBRIONICS-RESEARCH.md) reviews both: no validated
+assembly measure for cultural rituals is established here.
 
 ## 2. A Vocabulary of Membrane Architecture
 
@@ -168,89 +184,45 @@ Two derived concepts look especially important:
   availability of exit disciplines institutions and how its absence forces
   voice. The decisive variable is often not whether one *can* leave but what
   follows a person out: debts, reputation, records, images, kin obligations.
-- **Forgetting as structural, not moral.** Grace usually needs a mechanism,
-  not just a virtue. Expiring records, oral rather than written memory,
-  renaming, name taboos, and clean-slate proclamations make forgiveness
-  durable by making some information unavailable.
+- **Forgetting as structural, not moral.** Grace needs enforceable changes in
+  what the past authorizes. Deletion, restricted access, expiring claims, and
+  restored standing are different mechanisms; retained evidence can support
+  repair. Name avoidance is not evidence of collective amnesia.
 
-### Value Gradients Versus Flat Markets
+### Value Gradients and Conversion Boundaries
 
-A forager who leaves one camp joins another camp inside the same web of kin,
-language, and obligation. The new camp differs a little; most of what the
-person values still holds there. A consumer who leaves one product, platform,
-or community enters a market of interchangeable alternatives, where nothing
-they owed or were owed comes with them. These are two different topologies of
-exit, and the difference suggests a membrane concept worth developing: the
-**value gradient**.
+The initial contrast between meaningful communities and history-free markets
+was too strong. Commodities can retain biographies; money can be earmarked;
+gifts can impose hierarchy. Trading diasporas show that extensive commerce
+and strong internal distinctions can coexist. Kopytoff, Mauss, Bohannan,
+Walzer, Polanyi, Fiske, and Zelizer illuminate different mechanisms rather
+than jointly proving a gift/market binary.
 
-**A gradient of shared values** is a landscape in which neighboring groups
-share most commitments and differ along a few dimensions, so that movement is
-continuous. Moving one step changes some things and preserves most. Kinship
-networks, the Kula ring's routes, a monastic order's houses, open-source
-ecosystems, and the network of regional burns may all be gradients in this
-sense: a person can move along them and remain legible as a member, carrying
-reputation, skills, and obligations that still mean something in the next
-place.
+A **value gradient** is useful as a proposed description of differences among
+communities across several dimensions: obligations, acceptable exchanges,
+authority, belonging, and access to resources. Neighboring communities need
+not agree on which dimensions matter. Movement can preserve some commitments
+and sever others. Portable obligations may support a person or trap them.
 
-**A flat market of fungible artifacts** is a landscape in which alternatives
-are compared along one scalar, price, and are otherwise interchangeable.
-Markets are powerful precisely because they flatten: arbitrage equalizes
-prices across places, and commodities are valuable because they carry no
-history that would make one unit differ from another.
+The sharper membrane question is **which conversions are permitted**: can
+wealth purchase exemption, publicity purchase governing authority, or access
+to a ritual authorize recording and export? Arbitrage can narrow prices for
+comparable tradable claims under particular conditions; this does not show
+that it equalizes moral values. Cultural diffusion models offer hypotheses
+about interaction and differentiation, not a proof of that analogy.
 
-Several literatures converge on this distinction, and it maps onto membrane
-architecture directly:
+[Report §4](MEMBRIONICS-RESEARCH.md) develops the literature, counter-cases,
+and a proposed network representation: communities linked by separate flows
+of people, goods, information, reputation, and obligations, with explicit
+conversion permissions. Retain the dimensions and disagreements instead of
+collapsing them into a single cultural-distance score.
 
-- **Commoditization and singularization.** Igor Kopytoff's "The Cultural
-  Biography of Things" (1986) describes objects moving between commodity
-  status (exchangeable, history-free) and singular status (bearing a
-  biography, unexchangeable). Gifts on the playa are deliberately
-  singularized; the gift carries the relation. Marcel Mauss's *The Gift*
-  (1925) and Lewis Hyde's *The Gift* (1983) argue that gifts bind people
-  while commodities settle accounts.
-- **Spheres of exchange.** Paul Bohannan's account of Tiv spheres of exchange
-  (1955) describes goods that could be traded only within ranked spheres.
-  Michael Walzer's *Spheres of Justice* (1983) generalizes this as "blocked
-  exchanges": things money should not buy. Decommodification is a membrane
-  that blocks crossing between spheres.
-- **Embeddedness.** Karl Polanyi's *The Great Transformation* (1944) argues
-  that markets historically were embedded in social relations and that the
-  self-regulating market disembedded them. A value gradient is an embedded
-  landscape; a flat market is a disembedded one.
-- **Relational models.** Alan Fiske's four relational models (communal
-  sharing, authority ranking, equality matching, market pricing) suggest that
-  the same object or act means different things depending on which model
-  governs it. Applying market pricing where communal sharing is expected is
-  experienced as a violation, not a mere inefficiency.
-
-**The physical analogy, with limits.** Membranes exist to maintain gradients;
-a cell at equilibrium with its surroundings is dead. Prigogine's dissipative
-structures persist only while a gradient drives flow through them. By analogy,
-**a market's arbitrage behaves like diffusion: it erodes differences**, which
-is efficient for allocating fungible goods and corrosive for local meaning.
-A culture's membrane can be read as the structure that keeps its value
-gradient from being arbitraged away. This is an analogy for generating
-hypotheses; whether value differences behave like physical gradients is an
-open question, not a claim.
-
-**Membrane readings.**
-
-- The steepness of the value gradient across a boundary sets how much
-  transition the crossing requires. Moving between camps is a short step;
-  leaving Black Rock City for the default world is a cliff, which is why
-  decompression and reintegration matter.
-- A healthy network of communities may need many shallow internal gradients
-  (so people can move, dissent, and find a better fit without losing
-  everything) inside a steeper outer gradient (so the network's distinct
-  values are not arbitraged away).
-- Exit within a gradient preserves obligation and identity; exit into a flat
-  market dissolves them. This sharpens the "what follows you" concept: on a
-  gradient, *meaningful* things follow you; in a market, either nothing does
-  or only a context-free score does.
-- AI systems can push in either direction. Recommendation and ranking compress
-  rich values into one engagement scalar, flattening the landscape.
-  Translation, introductions, and portable *chosen* commitments could instead
-  help people move along a gradient without losing what they carry.
+[`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md) applies this to
+the gift. Image capture for an outside audience is an unauthorized conversion
+outward (a gift diverted into the attention market), and the audience's
+anticipated desires flow back inward, reshaping conduct and art on playa.
+It also argues that a gift carries the relation only when it is received, and
+that the conditions of receiving are themselves membrane properties.
 
 ## 3. Comparative Cases
 
@@ -265,18 +237,18 @@ periods, not timeless traits of a people.
 - **Immediate-return societies.** James Woodburn's "Egalitarian Societies"
   (1982) describes groups such as the Hadza where people consume food soon
   after acquisition, accumulate little, and can leave a camp at low cost.
-  Disputes are often resolved by moving away. *Membrane reading:* thin
-  boundaries, cheap exit, little stored memory, and strong leveling.
+  Disputes are often resolved by moving away. *Membrane reading:* credible alternatives and leveling can constrain authority;
+  low memory does not follow from mobility, and autonomy differs by position.
 - **Reverse dominance hierarchy.** Christopher Boehm's *Hierarchy in the
   Forest* (1999) synthesizes ethnographies in which egalitarian bands
   actively suppress would-be dominants through ridicule, criticism,
   disobedience, ostracism, and in extreme cases execution. Equality is an
   achievement maintained by sanction, not a natural state.
 - **"Insulting the meat."** Richard Lee's account of the Ju/'hoansi ("Eating
-  Christmas in the Kalahari," 1969) describes hunters' kills being ritually
-  belittled to prevent arrogance. *Membrane reading:* an institutionalized
+  Christmas in the Kalahari," 1969) describes the purchased Christmas ox he offered being
+  belittled, interpreted in relation to leveling successful providers. *Membrane reading:* an institutionalized
   Jester function that converts success into shared good without letting it
-  become status. A direct ancestor for the pilot's Rook.
+  become status. A comparative inspiration for the pilot's Rook, not a historical ancestor.
 - **Death from a Distance.** Paul Bingham and Joanne Souza, *Death from a
   Distance and the Birth of a Humane Universe* (2009). Their thesis: the human ability to project lethal
   force from a distance as a coalition made it cheap to sanction defectors,
@@ -297,10 +269,9 @@ periods, not timeless traits of a people.
   survive with hard boundaries but soft, graduated sanctions that leave a
   path back.
 - **The Tribunal de las Aguas.** Valencia's irrigators' court meets weekly in
-  public at the cathedral door, rules orally, and keeps minimal written
-  records *(verify current practice)*. *Membrane reading:* a public,
-  ritualized, low-memory repair institution inside a settled, propertied
-  system.
+  public at the cathedral door and rules orally, but maintains a
+  register of verdicts. *Membrane reading:* oral adjudication and recorded
+  accountability coexist. Orality does not establish institutional forgetting.
 - **Institutional sclerosis.** Mancur Olson's *The Rise and Decline of
   Nations* (1982) argues that long periods of stability let narrow
   "distributional coalitions" accumulate and slow adaptation. This is the
@@ -338,13 +309,11 @@ periods, not timeless traits of a people.
   group repeats the cycle. *Membrane reading:* settlement thickens property
   and record boundaries while thinning the solidarity that made the group
   capable. This is a centuries-scale version of the loss-aversion problem.
-- **Black Rock City as a compressed cycle.** The playa city is settled,
-  planned, and administered for a few weeks, then dismantled. It may compress
-  Ibn Khaldun's cycle into a year: each year's city is founded by people who
-  traveled and built, then disappears before sclerosis can accumulate. The
-  persistent organization, by contrast, never burns. **Hypothesis:** the
-  city's renewal capacity and the institution's stagnation risk differ
-  because one has a designed apoptosis and the other does not.
+- **Black Rock City as selective renewal.** Annual dismantling does not
+  reproduce Ibn Khaldun's dynastic succession. Organizational authority,
+  camp assets, relationships, and reputations continue. **Hypothesis:**
+  material rebuilding enables some experimentation while leaving other
+  concentrations of power intact. Test which powers actually expire.
 
 ### Mobile peoples with strong internal boundaries
 
@@ -366,9 +335,9 @@ periods, not timeless traits of a people.
 - **Name avoidance after death.** In many Aboriginal Australian communities,
   the name of a deceased person is avoided for a period, and others sharing
   the name may adopt a substitute. Practice varies by community and is
-  reflected in contemporary media warnings. *Membrane reading:* forgetting
-  institutionalized at the level of language, respecting grief rather than
-  erasing obligation. Yunkaporta's *Sand Talk* should be read for his own
+  reflected in contemporary media warnings. *Membrane reading:* restricted circulation during mourning, not necessarily
+  forgetting. Anangu-controlled Ara Irititja preserves records while governing
+  access to sensitive material; see the report’s protocols-based dossier. Yunkaporta's *Sand Talk* should be read for his own
   argument about pattern, kinship, and systems thinking rather than mined for
   generic "Indigenous" traits.
 - **Restricted knowledge.** Many Aboriginal traditions hold knowledge that is
@@ -395,18 +364,21 @@ periods, not timeless traits of a people.
   *Membrane reading:* a time-limited exclusion that targets concentration of
   power and preserves the path back.
 - **The Nuer leopard-skin chief.** In Evans-Pritchard's *The Nuer* (1940),
-  a ritual figure with no coercive power could offer sanctuary to a killer
-  and mediate compensation between feuding lineages. *Membrane reading:* a
-  repair role that works because it holds no enforcement power. Later
-  scholarship disputes parts of the account; check before relying on it.
+  a ritual specialist offered sanctuary and mediated compensation between
+  feuding lineages without a police apparatus. Ritual authority and the
+  threat of cursing complicate the label “powerless.” *Membrane reading:*
+  mediation can depend on differentiated authority, not its absence.
+  The report separates the colonial-era account from later disputes.
 - **Cities of refuge** (Numbers 35): designated places where someone who had
   killed unintentionally could live, protected from revenge. *Membrane
   reading:* a sanctuary inside the legal system for interrupted vengeance.
 - **Jubilee and clean slates.** Leviticus 25 prescribes periodic land return
   and release from debt slavery; David Graeber's *Debt* (2011) discusses
   Mesopotamian royal debt-cancellation proclamations. *Membrane reading:*
-  scheduled forgetting of obligations as a structural antibody against
-  accumulation, the institutional analogue of the burn.
+  termination of specified claims while records and history may remain.
+  Biblical prescription is not proof of historical implementation;
+  Mesopotamian royal remissions were selective and not a demonstrated fixed
+  schedule. Neither warrants a general equivalence with the burn.
 - **Monastic enclosure.** The *Rule of St Benedict* combines staged entry
   (novitiate with repeated readings of the Rule, ch. 58), a vow of stability,
   and an obligation to receive guests as Christ (ch. 53). *Membrane reading:*
@@ -422,45 +394,34 @@ periods, not timeless traits of a people.
 - **Burning Man itself.** Gate, Greeters, perimeter fence, ticketing,
   placement, Rangers, decommodification, image policy, decompression, Leave
   No Trace, and the burn are a rich set of membrane mechanisms. The project
-  should document them from primary sources rather than from memory.
+  now documents them in [report §6](MEMBRIONICS-RESEARCH.md), including
+  image-rights asymmetry, placement changes, restoration, and connectivity.
 
 ## 4. Working Hypotheses
 
-Candidate claims to test against cases, not conclusions.
+The [hypothesis review](MEMBRIONICS-RESEARCH.md) records support,
+counterevidence, and judgments for each original claim. Revised versions:
 
-1. **Exit-cost hypothesis.** When exit is cheap, cultures rely on leveling,
-   ridicule, and departure, with little stored memory. When exit is costly
-   (fixed property, kin, sunk investment), cultures develop records, courts,
-   graduated sanctions, and formal grace. *Counter-case to test:* Romani
-   law (mobile with strong sanction) and long-enduring commons (settled with
-   soft sanction).
-2. **What-follows-you hypothesis.** The freedom a membrane offers is set less
-   by its entry rule than by what follows a person out. Portable reputation,
-   records, and images make exit meaningless; total amnesia makes
-   accountability impossible. Healthy membranes tune this.
-3. **Grace needs mechanism.** Durable forgiveness depends on structural
-   forgetting (expiry, orality, renaming, clean slates) more than on
-   individual virtue. Perfect-memory systems will erode grace unless
-   forgetting is engineered.
-4. **Designed apoptosis prevents sclerosis.** Institutions without scheduled
-   endings accumulate distributional coalitions (Olson) and loss aversion.
-   Annual rebuilding, term limits, sunset clauses, and jubilees are
-   antibodies; their absence predicts stagnation.
-5. **Entangle without engulfing.** Outward investment (the Asgard pattern) is
-   generative when the shared zone is a stable commons, and extractive when
-   it is a staging area for capture.
-6. **Ordeal as active transport.** Costly entry selects for commitment and
-   creates gradient, but cost borne unequally becomes exclusion. The design
-   goal is a cost of *effort and attention* rather than money.
-7. **Legibility asymmetry.** A membrane fails when it becomes transparent in
-   one direction: participants visible to organizers, vendors, or models, but
-   not the reverse.
-8. **Gradient preservation.** Communities that sustain distinct values over
-   time maintain blocked exchanges (Walzer) and singularized goods
-   (Kopytoff) at their boundary; where market pricing crosses freely, local
-   value differences erode. *Counter-case to test:* trading diasporas and
-   merchant guilds that sustained strong internal values while trading
-   extensively across their boundary.
+1. **Credible exit:** accessible alternatives constrain incumbents; sanctions
+   that travel can preserve dependence. Drop the cheap-exit/low-memory claim.
+2. **What follows you:** freedom depends on destinations, retained resources,
+   and the accuracy, scope, contestability, and expiry of portable claims.
+3. **Grace changes authorization:** repair needs enforceable changes to what
+   past events permit others to do; deletion is only one possible mechanism.
+4. **Contestable renewal:** replace the universal apoptosis claim. Review or
+   expiry helps only when power is contestable and necessary capabilities and
+   obligations survive. Annual rebuilding alone is insufficient.
+5. **Cooperate without compulsory incorporation:** a normative proposal for
+   shared infrastructure; integration requires a separate authorization.
+6. **Accessible contribution:** test relevant entry tasks independently of
+   wealth, spare time, disability, and existing connections. Ordeal alone
+   does not demonstrate commitment.
+7. **Accountable observation:** consequential observers need limits and
+   effective challenge; reciprocal visibility is not always appropriate.
+8. **Governed conversions:** local practices are vulnerable when outsiders'
+   advantages become local authority, or locally governed goods are exported,
+   without effective consent, constraint, or recourse. Trade alone does not
+   predict cultural flattening.
 
 ## 5. Presence, Non-attachment, and Dynamic Quality
 
@@ -501,7 +462,7 @@ AI systems alter nearly every axis in Section 2:
 
 | Axis | What AI changes | Constitutional question |
 | --- | --- | --- |
-| Memory | Near-perfect, searchable, cheap retention | What expires, and who can make it expire? |
+| Memory | Scalable, searchable retention, with errors and selective coverage | What expires, and who can make it expire? |
 | Reversibility | Copies and derivatives make most crossings one-way | Which crossings must remain two-way doors? |
 | Legibility | Inference penetrates opacity; faces and voices become identifiers | Which spaces remain illegible by design? |
 | Crossing cost | Generation and outreach become nearly free | What friction must be reintroduced? |
@@ -519,7 +480,10 @@ form; the constitution template should adopt it explicitly.
 
 ## 7. Research Queue
 
-Priority close readings, in rough order:
+The first research pass is complete in [MEMBRIONICS-RESEARCH.md](MEMBRIONICS-RESEARCH.md).
+Its bibliography distinguishes inspected passages, abstracts, and pending
+full-text work; §9 prioritizes follow-up. The original reading list below
+remains useful, but should not be read as wholly unstarted or wholly verified:
 
 1. Woodburn (1982) and Boehm (1999): exit, leveling, and sanction in mobile
    egalitarian groups.
@@ -534,7 +498,7 @@ Priority close readings, in rough order:
 10. Lane, *The Vital Question* (2015), Imachi et al. (2020), Maturana and
     Varela: check each biological claim used above.
 
-Deferred: Assembly Theory, Prigogine, *The Overstory* (as a literary prompt
+Assembly Theory and Prigogine have an initial audit in the report. Deferred: *The Overstory* (as a literary prompt
 about duration and interdependence), Hutchins's *Cognition in the Wild*
 (distributed cognition across membranes), Hirschman in depth.
 
@@ -560,7 +524,7 @@ Questions for the next pass:
 - Cronin, L., Walker, S. I., et al. "Assembly theory explains and quantifies
   selection and evolution," *Nature* (2023).
 - Evans-Pritchard, E. E. *The Nuer* (1940), for segmentary lineage and the
-  leopard-skin chief as mediator without coercive power.
+  leopard-skin chief as ritual mediator without a police apparatus.
 - Fiske, A. P. "The Four Elementary Forms of Sociality," *Psychological
   Review* 99 (1992).
 - Friedman, D., Leeson, P., and Skarbek, D. [*Legal Systems Very Different

@@ -24,9 +24,9 @@ the cultural research and the constitutional proposals.
 
 | Workstream | Current state | Next concrete result |
 | --- | --- | --- |
-| [Extending beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md) | Initial research pass dated 2026-09-18; provisional four-dimensional model, sources, and three companion essays exist | Test the model against successful and failed cases; clarify portability and the place of finitude |
+| [Extending beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md) | Initial research pass dated 2026-09-18; provisional four-dimensional model, sources, and four companion essays exist | Test the model against successful and failed cases; clarify portability and the place of finitude |
 | [AI constitutions](AI-CONSTITUTIONS.md) | New project brief; existing cybernetic commitments and finitude essay provide starting material | Map actors, powers, and data flows; develop scenarios and a common constitution template |
-| [Membrionics](MEMBRIONICS.md) | First-pass brief: membrane vocabulary, biological analogies with limits, comparative cases (mobile foragers, settled commons, hill and valley, nomad–city cycles, Romani law, ritual forgetting, designed grace), seven hypotheses, AI implications | Close-read priority sources; test the exit-cost and designed-apoptosis hypotheses; document Burning Man's own membrane mechanisms from primary sources |
+| [Membrionics](MEMBRIONICS.md) and [research report](MEMBRIONICS-RESEARCH.md) | Research pass: case dossiers, eight revised hypotheses, value/conversion boundaries, biology audit, primary-source Burning Man inventory, AI design implications | Close remaining full-text gaps; test actual exit options and renewal of authority; use the inventory to revise the AI constitution |
 | [Personas for inquiry and critique](PERSONAS.md) | Six basis voices piloted on one AI-photo scenario; off-diagonal voices identified | After membrionics: add dissenting voices, test against actual image-use terms, fill the membrane grid |
 
 These are document states, not claims of empirical validation. No constitution
@@ -47,6 +47,10 @@ governance, feedback, and failure modes.
 - [Two fires and finitude](03-TWO-FIRES-AND-FINITUDE.md) develops ritual,
   mourning, forgetting, opacity, and a provisional constitution of finitude
   for AI. It is a substantial input to the new goal, not a complete charter.
+- [Gifts and commodities](04-GIFTS-AND-COMMODITIES.md) develops the receiving
+  side of the gift: conditions of receptivity, self-reliance and ordeal,
+  purchased exemption as lost receptivity, and the diversion and counterflow
+  produced by an anticipated online audience.
 
 The former `PROJECT-GOAL.md` research text and source list now live in
 [BEYOND-TEN-PRINCIPLES.md](BEYOND-TEN-PRINCIPLES.md).
