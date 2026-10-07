@@ -3,9 +3,7 @@
 ## Burning Man, AI, and a Collective Inquiry into Constitutions for the Playa
 
 **Status:** Overview essay, 2026-10-06. This is the entry point to the
-project; [`ROADMAP.md`](ROADMAP.md) tracks progress. Nothing here is adopted
-policy. No constitution exists yet, and the
-current AI practices of the Burning Man organization have not been audited.
+project; [`ROADMAP.md`](ROADMAP.md) tracks progress. 
 
 ## What This Project Is For
 
@@ -37,7 +35,7 @@ assistance, are scaffolding for that inquiry. They are not a substitute for it.
 ## Burning Man As A Container
 
 Imagine accepting a meal from someone you have just met. You offer to pay,
-but instead, they ask you to sit down. For a moment, the familiar way of settling the
+but instead, they ask you to sit down and chat. For a moment, the familiar way of settling the
 encounter is unavailable, and you have to find another response: attention,
 conversation, gratitude, perhaps helping someone else later. Nothing
 spectacular has happened, but a different relationship has become possible.
@@ -52,15 +50,14 @@ decommodified city, gifts, shared labor, art that invites participation,
 Rangers and repair, burning and dismantling, and a return home. The
 [summary of our Ten Principles research](BEYOND-TEN-PRINCIPLES-SUMMARY.md) develops this.
 
-AI matters here because it changes the **medium**, not only the tools within
-it. AI systems remember, copy, infer, generate, rank, persuade, and act at
+In considering the impact of AI on Burning Man, it's important to note that AI changes the **medium**, and is not merely a tool within it. AI systems remember, copy, infer, generate, rank, persuade, and act at
 speeds and scales no participant can match. They can alter the social field
 without appearing as actors in it. A camera with an absent audience, a feed
 ranking what gets seen, a model trained on what was shared in confidence, a
 generated gift that simulates attention nobody paid: each changes the
 container whether or not anyone decided it should.
 
-So the question for a constitution is not merely "which technologies are
+So the question for an "AI constitution" is not merely "which technologies are
 allowed?" It is:
 
 > **What should people be able to experience and do together here, what
@@ -69,7 +66,7 @@ allowed?" It is:
 
 ## The Pillars of the Container
 
-The container has several aspects that work together. Each is a lens for
+Burning Man has several aspects that work together. Each is a lens for
 probing AI, and each has a deeper treatment in the repository. The list is a
 starting set for the inquiry to revise, not a finished model.
 
@@ -121,7 +118,7 @@ affordable and keep the gifts moving.
 
 Pilgrimage, fire, costume, playa names, and shared rhythm create a liminal
 state where status loosens and unusual bonds form, while interpretation stays
-open. The project author frames the hoped-for movement as **presence →
+open. Peter, the author of these documents, frames the aspirational movement as **presence →
 non-attachment → openness to change and emergence**, which is different from
 catharsis that simply releases pressure.
 
@@ -202,8 +199,30 @@ energy, and data labor behind AI.
 
 ### How the pillars interact
 
-The pillars constrain one another. Attention without plurality becomes spectacle. Freedom without repair becomes
-extraction. A strong boundary without plural agency becomes an enclosure. Gifts without privacy become compulsory intimacy. This research work expresses this tension as a provisional four-dimensional model in which a near-zero in any one dimension can collapse the whole; see the [summary](BEYOND-TEN-PRINCIPLES-SUMMARY.md).
+The pillars constrain one another. Each good quality turns into something
+worse when the others are missing:
+
+- **Shared attention without many voices becomes spectacle.** When a crowd
+  focuses together on the Man burning, people are still many different
+  participants who can respond, move, and make their own meaning. When
+  everyone's attention is drawn to one stage, one celebrity, one photogenic
+  artwork, or one feed, most people stop contributing and become an audience
+  for the few who perform. Recommendation and ranking systems are very good
+  at producing this kind of convergence.
+- **Freedom without repair becomes extraction.** Self-expression that never
+  answers for its noise, trash, or harm to others takes from the commons
+  without giving back.
+- **A strong boundary without individual agency becomes an enclosure.** A
+  protected space that people cannot shape, question, or leave is no longer
+  a refuge; it is a pen.
+- **Gifts without privacy become compulsory intimacy.** If taking part means
+  never holding anything back, so that every exchange is expected to be open,
+  personal, and returned, generosity turns into pressure to expose oneself.
+  People need room to receive, decline, or stay quiet.
+
+The research expresses these tensions as a provisional four-dimensional model
+in which a near-zero in any one dimension can collapse the whole; see the
+[summary](BEYOND-TEN-PRINCIPLES-SUMMARY.md).
 
 Protection itself needs limits. A rule against recording can shelter an
 intimate encounter or conceal mistreatment. An initiation can support learning
