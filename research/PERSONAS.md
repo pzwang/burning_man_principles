@@ -2,7 +2,7 @@
 
 **Status:** Six pilot personas and one worked critique drafted 2026-10-05;
 off-diagonal voices identified but not yet written. See
-[`ROADMAP.md`](ROADMAP.md).
+[`ROADMAP.md`](../ROADMAP.md).
 
 **Epistemic status (applies to this file and
 [`PERSONA-PILOT.md`](PERSONA-PILOT.md)).** Personas are authored perspectives
@@ -17,7 +17,7 @@ assumptions.
 
 Create a small set of personas that inform and critique the research on
 [extending beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md),
-[membrionics](MEMBRIONICS.md), and [AI constitutions](AI-CONSTITUTIONS.md).
+[membrionics](MEMBRIONICS.md), and [AI constitutions](../AI-CONSTITUTIONS.md).
 They should expose different needs, ways of making meaning, responses to
 power, and interpretations of play, ritual, technology, and obligation.
 
@@ -143,7 +143,7 @@ grid is a pending task.
 | 1. Source-and-limitations note per lens | Initial notes in the lens table above |
 | 2. Four to six pilot persona records | Six drafted in [`PERSONA-PILOT.md`](PERSONA-PILOT.md) |
 | 3. Worked critique of AI art from participant photographs | Drafted in the pilot; tests only a deliberately weak draft |
-| 4. Revisions to the constitution framework | Candidate revisions recorded in [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) |
+| 4. Revisions to the constitution framework | Candidate revisions recorded in [`AI-CONSTITUTIONS.md`](../AI-CONSTITUTIONS.md) |
 
 Next, after the membrionics pass: add dissenting off-diagonal voices, test
 against Burning Man's actual image-use terms or a strong draft, fill the

@@ -1,10 +1,12 @@
 # Extending Beyond the Ten Principles of Burning Man
 
 This research project supplies the cultural and philosophical foundation for
-the broader work tracked in [`ROADMAP.md`](ROADMAP.md). Its initial synthesis
+the broader work tracked in [`ROADMAP.md`](../ROADMAP.md). Its initial synthesis
 and sources are preserved below; the AI material remains an input to the new
-[`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) project, rather than an adopted
-constitution.
+[`AI-CONSTITUTIONS.md`](../AI-CONSTITUTIONS.md) project, rather than an adopted
+constitution. A short [summary](../BEYOND-TEN-PRINCIPLES-SUMMARY.md) sits at
+the top level of the repository, and the [overview](../README.md) builds its
+pillars on this model.
 
 ## Research Goal
 
@@ -59,7 +61,7 @@ language. The analysis should remain capable of saying both that an element is
 socially powerful and that its benefits are distributed unequally or sustained
 by hidden labor, capital, ecological cost, or coercion.
 
-Material in [`../unmoored_self/`](../unmoored_self/) may inform this project,
+Material in [`../unmoored_self/`](../../unmoored_self/) may inform this project,
 especially its accounts of embodied co-presence, de-simulation, relational
 selfhood, attention, norms, obligation, conviviality, and the medium as an
 active participant. That directory is a read-only source for this project; no
@@ -93,14 +95,19 @@ not a settled replacement for the Ten Principles.
 
 ### Companion Essays
 
-- [`01-REGIONAL-BURNS.md`](01-REGIONAL-BURNS.md), comparing BRC, regional cities,
+Start with the [overview](../README.md), which sets out why practical
+conditions matter for cultural possibility and AI governance. The essays
+below develop its applications; the research
+vocabulary is optional background.
+
+- [`01-REGIONAL-BURNS.md`](../essays/01-REGIONAL-BURNS.md), comparing BRC, regional cities,
   villages, and microburns through the four-dimensional model.
-- [`02-PERMEABLE-NOT-PURCHASABLE.md`](02-PERMEABLE-NOT-PURCHASABLE.md), exploring
+- [`02-PERMEABLE-NOT-PURCHASABLE.md`](../essays/02-PERMEABLE-NOT-PURCHASABLE.md), exploring
   purchased exemption, influencer capture, EDM spectatorship, and Starlink.
-- [`03-TWO-FIRES-AND-FINITUDE.md`](03-TWO-FIRES-AND-FINITUDE.md), interpreting
+- [`03-TWO-FIRES-AND-FINITUDE.md`](../essays/03-TWO-FIRES-AND-FINITUDE.md), interpreting
   the Man and Temple as a ritual diptych and developing a constitution of
   finitude for AI.
-- [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md), examining the
+- [`04-GIFTS-AND-COMMODITIES.md`](../essays/04-GIFTS-AND-COMMODITIES.md), examining the
   receiving side of the gift, the conditions of receptivity, and how the
   anticipated audience behind the camera diverts gifts and flows back onto the
   playa.
@@ -286,7 +293,7 @@ the person-facing side of Radical Inclusion. Self-reliance is generalized as
 **capable interdependence**, not isolated self-sufficiency. Capable
 interdependence runs both ways: being able to contribute, and being **capable
 of needing**, so that others' gifts can land. See
-[`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).
+[`04-GIFTS-AND-COMMODITIES.md`](../essays/04-GIFTS-AND-COMMODITIES.md).
 
 Failure poles: consumer dependency and learned helplessness at one end;
 atomized expressive sovereignty and domination at the other.
@@ -572,10 +579,10 @@ claim in a source.
 
 ### Local Conceptual Sources
 
-- [`../unmoored_self/briefing/04-interventions-and-their-limits.md`](../unmoored_self/briefing/04-interventions-and-their-limits.md), Burning Man as a city-scale constructed situation and the limits of temporary interventions.
-- [`../unmoored_self/briefing/07-design-implications.md`](../unmoored_self/briefing/07-design-implications.md), embodied life, relationships, norms, privacy, attention, and conviviality over engagement.
-- [`../unmoored_self/references/relations-axioms-and-principles.md`](../unmoored_self/references/relations-axioms-and-principles.md), the relational inversion and media as active participants.
-- [`../unmoored_self/references/edelman-what-is-solidarity-made-of.md`](../unmoored_self/references/edelman-what-is-solidarity-made-of.md), natural solidarity, expressive contribution, co-appreciation, and infinite play.
+- [`../unmoored_self/briefing/04-interventions-and-their-limits.md`](../../unmoored_self/briefing/04-interventions-and-their-limits.md), Burning Man as a city-scale constructed situation and the limits of temporary interventions.
+- [`../unmoored_self/briefing/07-design-implications.md`](../../unmoored_self/briefing/07-design-implications.md), embodied life, relationships, norms, privacy, attention, and conviviality over engagement.
+- [`../unmoored_self/references/relations-axioms-and-principles.md`](../../unmoored_self/references/relations-axioms-and-principles.md), the relational inversion and media as active participants.
+- [`../unmoored_self/references/edelman-what-is-solidarity-made-of.md`](../../unmoored_self/references/edelman-what-is-solidarity-made-of.md), natural solidarity, expressive contribution, co-appreciation, and infinite play.
 
 ## Current Compression
 

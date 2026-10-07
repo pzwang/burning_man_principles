@@ -4,7 +4,7 @@
 
 **Status:** Exploratory brief, 2026-09-18.
 
-This essay applies the four-dimensional model in [`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md) to convenience culture, affluent
+This essay applies the four-dimensional model in [`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md) to convenience culture, affluent
 spectatorship, EDM consumption, influencer capture, and ubiquitous satellite connectivity. Its proposals are working synthesis, not current Burning Man policy.
 
 ## Diagnose Conduct, Not Class
@@ -23,7 +23,26 @@ The demographic and economic shift is still relevant. The representative 2025 BR
 
 The response should use all four dimensions: repair the membrane, preserve plural agency, make reciprocity unavoidable but not uniform, and govern the attention loops introduced by sound, cameras, platforms, and Starlink.
 
-## 1. A Selectively Permeable Membrane
+## 1. What Resources May Buy—and What They May Not
+
+The [overview](../README.md) gives the broader motivation: different
+ways of relating need practical conditions. Here the question is which
+advantages may become which privileges. Money can support a camp without
+buying exemption from responsibility. Hospitality can welcome someone without
+granting permission to record. Technical access can make a service possible
+without giving its operator authority over every later use.
+
+These are distinct permissions, not a single package called participation.
+For an AI artwork, contributing a prompt might authorize a local response;
+retaining it, publishing it, training on it, or acting for its author each
+needs a separate basis. A sponsor's payment does not supply the missing
+permission. Nor can a participant authorize use of every bystander's likeness.
+
+The practical test is: **what did this contribution or encounter authorize,
+who could grant that authority, and what remains outside it?** This extends
+decommodification into decisions collaborators can make without adopting a
+specialized vocabulary.
+
 
 A protective membrane does not keep wealth or technology out. It admits useful
 resources while filtering default-world contracts, status systems,
@@ -69,15 +88,14 @@ generator that powers public art and accessible cooling crosses differently
 from a generator that sustains a sealed hospitality enclave, even if the
 machines are identical.
 
-Purchased exemption has a second cost that is easy to miss. It removes the
-participant from reciprocity as a giver, and it also removes them as a
-**receiver**. A gift can land only where there is some need. Someone whose
-every need is met by staff has bought away the condition under which the
-city's gifts could reach them; every offering becomes redundant. Ordeal, in
-this reading, matters less as proof of commitment than as the source of the
-real dependence that opens people to receive. The design goal is not equal
-hardship. It is that everyone, including those who need accommodation,
-encounters some real dependence on others. See
+Purchased exemption may also diminish opportunities to **receive**. When
+services replace every encounter in which someone might ask a neighbor for
+help, the participant loses occasions for unplanned reciprocity. This is a
+hypothesis about arrangements, not a diagnosis of a comfortable person's
+inner life. Material provision does not make every gift redundant; ordeal
+does not guarantee receptivity. The design goal is accessible opportunities
+to depend on and contribute to others, without manufacturing deprivation or
+requiring participants to prove that an encounter changed them. See
 [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).
 
 ## 2. Plural Agency, Not One Correct Burn
@@ -305,6 +323,23 @@ Useful safeguards include:
 - Evaluate patterns over multiple years while allowing genuine remediation.
 - Separate acculturation, investigation, adjudication, and appeal roles.
 - Sunset rules that do not improve the four underlying dimensions.
+
+## Applying These Choices to AI
+
+An AI agreement should address the same conversions as a camp agreement:
+resources into authority, access into recording, contribution into ownership,
+and local recognition into standing elsewhere. A system can help translate,
+coordinate, or make art while remaining limited in what those tasks authorize.
+
+For a proposed installation, identify who can approve each subsequent use,
+who can refuse without losing unrelated camp benefits, who can pause disputed
+activity, and who must repair its consequences. Apply those limits to the
+operator and sponsors as well as the model. A consent screen cannot supply
+powers its designer never had.
+
+[The worked encounter in the AI brief](../AI-CONSTITUTIONS.md#start-with-an-encounter)
+shows how to translate this into an agreement. The purpose is to leave the
+creative outcome open while making the consequential permissions explicit.
 
 ## A Portfolio of Interventions
 

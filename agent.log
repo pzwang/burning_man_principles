@@ -112,3 +112,71 @@ Entry format:
 - Open: Callard is supported by publisher abstract/chapter description;
   full close reading remains. Cultural applications are marked as proposals.
 - Commit: uncommitted
+
+## 2026-10-05 | GPT (GPT-6 / Codex) | Accessible opening essay and practical AI reading path
+- Did: wrote 00-MAKING-ROOM.md, a 1,500-word orientation from familiar
+  encounters to permissions, formation, plural settings, maintenance, and AI.
+  Introduced membrane terminology after its practical motivation.
+- Did: grounded 02 in explicit conversion permissions and qualified the
+  claim that material provision forecloses receiving; connected 03 to grace
+  and aftercare and 04 to formation without certification. Reframed membrionics
+  as optional analytical background while preserving its research content.
+- Did: expanded AI-CONSTITUTIONS with a worked improvisational-art encounter,
+  five constitutional questions, unresolved decisions, and separate cultural,
+  institutional, and technical commitments. Updated entry points and roadmap.
+- Files: +00-MAKING-ROOM.md; ~02-PERMEABLE-NOT-PURCHASABLE.md,
+  ~03-TWO-FIRES-AND-FINITUDE.md, ~04-GIFTS-AND-COMMODITIES.md,
+  ~AI-CONSTITUTIONS.md, ~BEYOND-TEN-PRINCIPLES.md, ~MEMBRIONICS.md,
+  ~ROADMAP.md, ~agent.log
+- Open: worked encounter is illustrative, not deployed or adopted. Existing
+  research verification gaps remain; no new empirical claims were researched.
+  Next substantive step is contrasting draft charters and participant critique.
+- Commit: uncommitted
+
+## 2026-10-06 | Claude (claude-opus-5-5) | Repository reset: overview, pillars, inquiry scaffold
+- Context: user judged that the membrane focus had overshadowed the project;
+  the container as a whole, and progress on a collective human inquiry into
+  the AI constitution, are the priority.
+- Did: moved MEMBRIONICS, MEMBRIONICS-RESEARCH, PERSONAS, PERSONA-PILOT,
+  UPDATES-TO-UNMOORED-SELF, BEYOND-TEN-PRINCIPLES, and prompts/ into
+  research/; moved essays 01-04 into essays/. Rewrote all relative links
+  (scripted; verified no broken links or anchors).
+- Did: wrote README.md, an overview essay folding in ROADMAP goals and
+  00-MAKING-ROOM: three contexts, why the container matters, eight pillars
+  (threshold, gift, fire and finitude, ritual, participation, presence,
+  civic care and repair, many places) plus political economy as cross-cutting,
+  what AI could add, six questions (00's five plus "shared field"), and a
+  proposed inquiry format (pillar x scenario sessions, dissent role, capture
+  sheet, eight starting scenarios, first steps).
+- Did: wrote BEYOND-TEN-PRINCIPLES-SUMMARY.md. Rewrote ROADMAP.md around the
+  collective inquiry as the lead workstream. Small pointer edits in
+  00-MAKING-ROOM, research/BEYOND-TEN-PRINCIPLES, research/MEMBRIONICS.
+  AI-CONSTITUTIONS.md content left as is (links only).
+- Files: +README.md, +BEYOND-TEN-PRINCIPLES-SUMMARY.md, +research/, +essays/
+  (moves); ~ROADMAP.md, ~00-MAKING-ROOM.md, ~AI-CONSTITUTIONS.md (links),
+  ~research/*, ~essays/* (links), ~agent.log
+- Open: next steps are the eight pillar briefs, scenario cards, facilitator
+  guide, and a pilot session. 00-MAKING-ROOM still lacks fire/finitude, the
+  generative aspiration, and the shared-field question (README covers them).
+  AI-CONSTITUTIONS to be revisited after first sessions.
+- Commit: uncommitted
+
+## 2026-10-06 | Claude (claude-opus-5-5) | Retire 00-MAKING-ROOM; tighten README; commit reorganization
+- Did: retired 00-MAKING-ROOM.md (never committed; user approved loss).
+  Folded its unique content: "protection itself needs limits" into README
+  "How the pillars interact"; access vs. formation into the "No scoring of
+  transformation" principle; Question 2 discussion prompts (guest, donor,
+  story, microphone, archive) into AI-CONSTITUTIONS.md.
+- Did: README now flows purpose -> container -> pillars -> what AI could add
+  -> Scaffolding the Collective Inquiry (principles, which absorb the former
+  Standards for Progress; six questions; session format; scenarios; first
+  steps) -> repository map. Normalized "Questions to probe" labels.
+- Did: repointed links to 00 in AI-CONSTITUTIONS, ROADMAP, essays/02,
+  essays/04, research/BEYOND-TEN-PRINCIPLES, research/MEMBRIONICS. Verified
+  no broken links or anchors. Committed the whole reorganization so git
+  records the moves into essays/ and research/ as renames.
+- Files: -00-MAKING-ROOM.md; ~README.md, ~AI-CONSTITUTIONS.md, ~ROADMAP.md,
+  ~essays/02, ~essays/04, ~research/BEYOND-TEN-PRINCIPLES.md,
+  ~research/MEMBRIONICS.md, ~agent.log
+- Open: pillar briefs, scenario cards, facilitator guide, pilot session.
+- Commit: this entry's commit (see git log)

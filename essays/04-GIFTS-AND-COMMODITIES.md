@@ -7,7 +7,7 @@ the project author. Quotations marked *(verify)* are from memory and need
 checking against the text before reuse. Proposals are working synthesis, not
 Burning Man policy.
 
-[`MEMBRIONICS.md`](MEMBRIONICS.md) describes playa gifts as deliberately
+[`MEMBRIONICS.md`](../research/MEMBRIONICS.md) describes playa gifts as deliberately
 singularized: **the gift carries the relation.** This essay asks what that
 claim requires. Burning Man's culture says a great deal about *giving* and
 almost nothing about *receiving*, yet a gift that is not received carries no
@@ -20,7 +20,7 @@ relation. The essay's thesis:
 > audience behind the camera erode them.
 
 It builds on the Ten Principles analysis in
-[`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md), the purchased-exemption
+[`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md), the purchased-exemption
 argument in [`02-PERMEABLE-NOT-PURCHASABLE.md`](02-PERMEABLE-NOT-PURCHASABLE.md),
 and the account of gifts consumed by fire in
 [`03-TWO-FIRES-AND-FINITUDE.md`](03-TWO-FIRES-AND-FINITUDE.md).
@@ -28,7 +28,7 @@ and the account of gifts consumed by fire in
 ## 1. What the Literature Offers, and What It Does Not
 
 The anthropology of the gift is often recruited as a simple binary: gifts bind,
-commodities settle. The [membrionics research report](MEMBRIONICS-RESEARCH.md)
+commodities settle. The [membrionics research report](../research/MEMBRIONICS-RESEARCH.md)
 (§4) shows that binary is too strong, and this essay keeps its corrections.
 
 | Source | Core contribution | Caution |
@@ -153,7 +153,7 @@ possessed," continuing, "Something we were withholding made us weak / Until we
 found out that it was ourselves / We were withholding … / And forthwith found
 salvation in surrender" *(verify lineation)*. The poem names what a receiver
 must give: themselves. It maps onto the distinction in
-[`MEMBRIONICS.md`](MEMBRIONICS.md) §5 between **catharsis**, **surrender**, and
+[`MEMBRIONICS.md`](../research/MEMBRIONICS.md) §5 between **catharsis**, **surrender**, and
 **neglect**. Full reception is surrender in that sense. Cathartic reception
 takes the experience and remains unchanged.
 
@@ -218,7 +218,7 @@ even one's own future self as curator. Its defining feature is that it is
 
 Erving Goffman's distinction between front stage and backstage helps here.
 The protective membrane described in
-[`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md) creates backstage space
+[`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md) creates backstage space
 in which unfinished selves and relationships can form without immediate
 scoring. An absent audience turns that backstage into a front stage. The
 receiver begins performing reception rather than undergoing it, and the giver
@@ -237,7 +237,7 @@ happens in the presence of those who are here.
 A person prepared for every contingency never needs anything, and a person who
 needs nothing cannot be given anything. Self-reliance, pushed to completion,
 makes the playa's gifts superfluous. The principle needs a counterweight that
-[`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md) already gestures at with
+[`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md) already gestures at with
 "capable interdependence": being **capable of needing**. Preparation should
 make a person able to contribute and safe to depend on, not sealed against
 dependence.
@@ -316,7 +316,7 @@ designed for its photograph is that idea built in plywood and steel. The
 image that will be taken governs the object before it exists.
 
 This is a second-order cybernetic loop of the kind
-[`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md) warns about. The
+[`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md) warns about. The
 audience is a participant in the city's feedback loop even though it never
 arrives, and engagement metrics act as its objective function. The camera does
 not merely record the playa; through the counterflow, it edits it.
@@ -339,7 +339,7 @@ what is made and done in the presence of others.
 
 ## 7. Receptivity Needs Mechanism
 
-[`MEMBRIONICS.md`](MEMBRIONICS.md) concludes that grace needs mechanism, not
+[`MEMBRIONICS.md`](../research/MEMBRIONICS.md) concludes that grace needs mechanism, not
 just virtue. The same holds here: **receptivity needs mechanism.** It should be
 designed for, not used to sort people into those who "really" receive and
 those who do not. Candidate mechanisms, all proposals:
@@ -366,6 +366,23 @@ delays can become purity theater. Recognition of circulation can become a
 leaderboard. These are reasons for qualitative, local, and revisable practice,
 not for abandoning the aim.
 
+### Protect the Opportunity; Do Not Certify the Transformation
+
+Granting access differs from helping someone develop the capacities to
+participate. A workshop can offer
+time, tools, guidance, and room for mistakes; it cannot transfer judgment or
+trust merely by awarding a role. Receiving may likewise develop through a
+relationship that an inventory of permissions does not fully describe.
+
+This strengthens the case for protecting attention and voluntary learning.
+It also limits what a constitution should demand. Neither a host nor an AI
+system should score whether a person has truly received a gift or been
+transformed. Refusal may express wisdom; recognition may lag behind genuine
+capacity. Ask whether the arrangement creates opportunities and whether
+participants can revise it, rather than treating a prescribed inward change
+as the price of belonging. The [Hohfeld and formation discussion](../research/MEMBRIONICS-RESEARCH.md#44-a-nonscalar-map)
+provides the analytical distinction.
+
 ## 8. Implications for AI
 
 The "hand-crafted" promise, that someone attended to this receiver's unique
@@ -390,7 +407,7 @@ Candidate constitutional questions:
   accessibility, without inserting an absent audience into the encounter?
 
 These extend the commitments "no relational substitution by stealth" and
-"attention is not fuel" in [`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md).
+"attention is not fuel" in [`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md).
 
 ## 9. Cautions
 
@@ -471,4 +488,4 @@ Turner. Other items are cited from memory.
 
 *Related briefs: [`02-PERMEABLE-NOT-PURCHASABLE.md`](02-PERMEABLE-NOT-PURCHASABLE.md),
 [`03-TWO-FIRES-AND-FINITUDE.md`](03-TWO-FIRES-AND-FINITUDE.md), and
-[`MEMBRIONICS.md`](MEMBRIONICS.md).*
+[`MEMBRIONICS.md`](../research/MEMBRIONICS.md).*

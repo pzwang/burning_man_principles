@@ -4,7 +4,7 @@ Dispatch this prompt to a frontier research agent with web and academic
 search. Attach or paste the current [`MEMBRIONICS.md`](../MEMBRIONICS.md)
 after the prompt. Optionally attach
 [`BEYOND-TEN-PRINCIPLES.md`](../BEYOND-TEN-PRINCIPLES.md) and
-[`AI-CONSTITUTIONS.md`](../AI-CONSTITUTIONS.md) for context.
+[`AI-CONSTITUTIONS.md`](../../AI-CONSTITUTIONS.md) for context.
 
 ---
 

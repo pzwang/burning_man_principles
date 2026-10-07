@@ -4,7 +4,7 @@
 [research programme](prompts/membrionics-deep-research.md).
 The [research report](MEMBRIONICS-RESEARCH.md) supplies case dossiers,
 passage references, an evidence/access key, counterarguments, and remaining
-verification gaps. See also [ROADMAP.md](ROADMAP.md).
+verification gaps. See also [ROADMAP.md](../ROADMAP.md).
 
 *Membrionics* is this project's name for studying the boundaries that let a
 culture exist: what they admit and exclude, how they are crossed, maintained,
@@ -14,6 +14,21 @@ use **“membranics”** in their 2024 conversations, emphasizing permeability a
 overlapping memberships. Exact spelling and first coinage remain unverified;
 see [report §2.23](MEMBRIONICS-RESEARCH.md#223-rutt-bard-and-the-name).
 
+## How to Use This Brief
+
+This is an analytical companion, not the entry point for AI constitution
+collaborators. Start with the [overview](../README.md), where the membrane is
+one of eight pillars of the container, or the
+[AI brief](../AI-CONSTITUTIONS.md) for a worked encounter and concrete
+choices. The numbered essays carry the practical
+arguments about access, contribution, receiving, memory, and endings.
+
+The biological analogies and comparative cases below generate questions;
+they are not premises readers must accept before discussing a constitution.
+The research report supplies their evidence and limits. In particular,
+[§4.4](MEMBRIONICS-RESEARCH.md#44-a-nonscalar-map) separates rights and powers
+from the processes through which participants acquire capacities and standing.
+
 ## Studying Boundary Design Alongside Contents
 
 Boundary-centered cultural analysis has a substantial history, including
@@ -21,8 +36,8 @@ Fredrik Barth's work. The project does not establish that boundaries matter
 more than contents. It asks how boundary arrangements sustain or undermine
 particular practices. The [four-dimensional model](BEYOND-TEN-PRINCIPLES.md)
 already names a *protective membrane*, and the essays on
-[regional burns](01-REGIONAL-BURNS.md) and
-[purchased exemption](02-PERMEABLE-NOT-PURCHASABLE.md) apply it.
+[regional burns](../essays/01-REGIONAL-BURNS.md) and
+[purchased exemption](../essays/02-PERMEABLE-NOT-PURCHASABLE.md) apply it.
 
 The strongest proposition after research concerns **conversion rights**:
 when can money, visibility, technical access, or reputation become authority
@@ -103,7 +118,7 @@ none proves a social claim.
    a fully insulated participant cannot receive. This reframes ordeal as the
    source of receptivity rather than proof of commitment; the design goal is
    real interdependence for everyone, not equal hardship. See
-   [`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md).
+   [`04-GIFTS-AND-COMMODITIES.md`](../essays/04-GIFTS-AND-COMMODITIES.md).
 3. **The membrane is produced by what it encloses.** Maturana and Varela's
    *autopoiesis*: a living system produces the boundary that makes it a
    system. This is a theory of living organization, not a criterion that
@@ -217,7 +232,7 @@ of people, goods, information, reputation, and obligations, with explicit
 conversion permissions. Retain the dimensions and disagreements instead of
 collapsing them into a single cultural-distance score.
 
-[`04-GIFTS-AND-COMMODITIES.md`](04-GIFTS-AND-COMMODITIES.md) applies this to
+[`04-GIFTS-AND-COMMODITIES.md`](../essays/04-GIFTS-AND-COMMODITIES.md) applies this to
 the gift. Image capture for an outside audience is an unauthorized conversion
 outward (a gift diverted into the attention market), and the audience's
 anticipated desires flow back inward, reshaping conduct and art on playa.
@@ -472,11 +487,13 @@ AI systems alter nearly every axis in Section 2:
 | Life cycle | Models and agents persist and replicate | How is a system retired, and what of it may survive? |
 | Extension | Systems can reach beyond their makers | Who may extend a system's reach, and who can withdraw it? |
 
-A constitution for AI on the playa can therefore be read as a **membrane
-specification**: what crosses, in which direction, at what cost, with what
+For research purposes, a constitution for AI on the playa can be analyzed as
+a **membrane specification**: what crosses, in which direction, at what cost, with what
 memory, under which sanction, with what grace, maintained by whom, and
 retired how. The persona pilot's candidate revision already partly uses this
-form; the constitution template should adopt it explicitly.
+form. Collaborator-facing charters should express these distinctions through
+familiar decisions about authority, consent, refusal, and responsibility; the
+membrane vocabulary is an optional analytical aid.
 
 ## 7. Research Queue
 

@@ -4,7 +4,7 @@
 status, lens limitations, and off-diagonal voices are in
 [PERSONAS.md](PERSONAS.md); everything below is authored, not evidence. Each
 persona can critique the cultural research, [membrionics](MEMBRIONICS.md),
-and [AI constitutions](AI-CONSTITUTIONS.md).
+and [AI constitutions](../AI-CONSTITUTIONS.md).
 
 ## How to Use the Voices
 

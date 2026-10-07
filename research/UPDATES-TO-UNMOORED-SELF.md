@@ -1,6 +1,6 @@
 # Updates to The Unmoored Self
 
-**Purpose:** [`../unmoored_self/`](../unmoored_self/) is a read-only source for
+**Purpose:** [`../unmoored_self/`](../../unmoored_self/) is a read-only source for
 this project. Where work here refines, qualifies, or extends its ideas, the
 proposed changes are recorded below for the author to consider. Nothing here
 has been applied to the original.
@@ -62,7 +62,7 @@ and that grace often requires structural forgetting rather than individual
 virtue.
 
 **Basis.** [`MEMBRIONICS.md`](MEMBRIONICS.md), Hypotheses 3 and 4;
-[`03-TWO-FIRES-AND-FINITUDE.md`](03-TWO-FIRES-AND-FINITUDE.md).
+[`03-TWO-FIRES-AND-FINITUDE.md`](../essays/03-TWO-FIRES-AND-FINITUDE.md).
 
 ## 4. Legibility as the mechanism of the "algorithmic medium that watches you"
 

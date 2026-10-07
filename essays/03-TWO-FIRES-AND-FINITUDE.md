@@ -5,7 +5,7 @@
 **Status:** Exploratory brief, 2026-09-18.
 
 This essay extends the load-bearing conditions and four-dimensional model in
-[`BEYOND-TEN-PRINCIPLES.md`](BEYOND-TEN-PRINCIPLES.md). It distinguishes historical evidence from
+[`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md). It distinguishes historical evidence from
 interpretation and does not claim one authorized or universal meaning for either
 Burn.
 
@@ -394,6 +394,15 @@ Machine forgetting is technically and institutionally difficult. It must be
 auditable rather than metaphorical. The right to forget also has limits: it
 cannot become a tool for erasing atrocity, public obligation, or evidence of
 abuse.
+
+Repair also requires choices about what a retained record may authorize.
+Ending a sanction, correcting a decision, and restricting reuse can restore
+standing without erasing history. An AI charter should distinguish creative
+archives from restricted complaint evidence, and name a steward whose duties
+survive shutdown. Retiring credentials and stopping collection can be immediate;
+resolving a complaint may take longer. These are practical consequences of
+finitude, developed in the [research review of grace](../research/MEMBRIONICS-RESEARCH.md#3-hypothesis-review)
+and the [worked AI encounter](../AI-CONSTITUTIONS.md#start-with-an-encounter).
 
 ### 3. Grief Is Not an Optimization Problem
 

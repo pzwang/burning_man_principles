@@ -1,6 +1,6 @@
 # Membrionics: research, corrections, and a testable programme
 
-**Research date:** 2026-10-05. Response to [the research programme](prompts/membrionics-deep-research.md), read alongside [the brief](MEMBRIONICS.md), [Beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md), and [AI Constitutions](AI-CONSTITUTIONS.md).
+**Research date:** 2026-10-05. Response to [the research programme](prompts/membrionics-deep-research.md), read alongside [the brief](MEMBRIONICS.md), [Beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md), and [AI Constitutions](../AI-CONSTITUTIONS.md).
 
 **Evidence key:** **E** = documented observation or provision in the cited source; **C** = contested explanation; **I** = this report's inference or proposal. A prescribed rule is evidence of a prescription, not proof of compliance. **P** in the bibliography means relevant passages were inspected; **A** means only an abstract, publisher description, or contents were accessible; **L** means located for follow-up. Page references identify printed pages unless explicitly called PDF pages. This is a critical research synthesis, not a systematic review or a fieldwork report. It covers every named case, but gives greatest weight to cases with inspectable evidence. Unverified particulars and missing outcome evidence remain visible.
 

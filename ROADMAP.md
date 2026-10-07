@@ -1,93 +1,70 @@
 # Roadmap: Burning Man, AI, and Cybernetic Community
 
-**Updated:** 2026-10-05. This file tracks goals, existing work, and next steps.
-Research arguments and sources live in the linked project briefs and essays.
+**Updated:** 2026-10-06. This file tracks workstreams, progress, and next
+steps. The project's purpose, the pillars of the container, and the proposed
+format for collective inquiry are in the overview, [`README.md`](README.md).
 
-## Current Project Goal
+## Current Focus
 
-Build a framework for thinking about a set of **constitutions for AI on the
-playa**: arrangements that define power, authority, consent, responsibility,
-and recourse between people, institutions, and AI systems.
+Build a **family of constitutions for AI on the playa** through a collective
+human inquiry. The cultural research is substantial enough to support that
+inquiry. The priority now is scaffolding it: pillar briefs, scenario cards,
+a facilitator guide, and a first pilot session.
 
-The work includes Burning Man organization uses of AI; artists and creators
-using AI, including participants' photos and likenesses; and an **AI born *of*
-the playa**, built by participants exploring the liminal possibilities of
-emerging AI technologies and the coming world of cybernetics. These contexts
-may need different constitutions, joined by shared protections and procedures
-for resolving conflicts. **Their relationships are part of the inquiry.**
+The membrane analysis remains one useful lens among several. It should not
+dominate the inquiry; gifts, fire and finitude, ritual, participation,
+attention, repair, and the plurality of places carry equal weight.
 
-The existing research on extending beyond the Ten Principles remains a
-foundation. A small personas side project will help inform and critique both
-the cultural research and the constitutional proposals.
+## Reading Path for Collaborators
 
-## Work and Progress
+1. [`README.md`](README.md): purpose, pillars, six questions, inquiry format.
+2. [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md#start-with-an-encounter): a
+   worked encounter and the constitution workstream.
+3. The [essays](essays/) as needed: 02 for permissions and purchased
+   exemption, 04 for gifts and receiving, 03 for fire, memory, and endings, 01
+   for how practices travel.
+4. [`BEYOND-TEN-PRINCIPLES-SUMMARY.md`](BEYOND-TEN-PRINCIPLES-SUMMARY.md) and
+   the [research](research/) directory for background.
+
+## Workstreams
 
 | Workstream | Current state | Next concrete result |
 | --- | --- | --- |
-| [Extending beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md) | Initial research pass dated 2026-09-18; provisional four-dimensional model, sources, and four companion essays exist | Test the model against successful and failed cases; clarify portability and the place of finitude |
-| [AI constitutions](AI-CONSTITUTIONS.md) | New project brief; existing cybernetic commitments and finitude essay provide starting material | Map actors, powers, and data flows; develop scenarios and a common constitution template |
-| [Membrionics](MEMBRIONICS.md) and [research report](MEMBRIONICS-RESEARCH.md) | Research pass: case dossiers, eight revised hypotheses, value/conversion boundaries, biology audit, primary-source Burning Man inventory, AI design implications | Close remaining full-text gaps; test actual exit options and renewal of authority; use the inventory to revise the AI constitution |
-| [Personas for inquiry and critique](PERSONAS.md) | Six basis voices piloted on one AI-photo scenario; off-diagonal voices identified | After membrionics: add dissenting voices, test against actual image-use terms, fill the membrane grid |
+| **Collective inquiry** ([`README.md`](README.md#scaffolding-the-collective-inquiry)) | Format proposed: one pillar and one scenario per session, six questions, dissent role, capture sheet; eight starting scenarios listed | Write the eight pillar briefs and scenario cards; draft a facilitator guide; pilot one session |
+| [AI constitutions](AI-CONSTITUTIONS.md) | Worked creative encounter, five constitutional questions, three levels of statement, three contexts, template outline | Revisit after the first inquiry sessions; add the sixth question (shared field) and failure variants of the worked encounter |
+| [Ten Principles research](research/BEYOND-TEN-PRINCIPLES.md) ([summary](BEYOND-TEN-PRINCIPLES-SUMMARY.md)) | Initial pass dated 2026-09-18; four-dimensional model, cybernetic commitments, Goodhart risks | Test the model against successful and failed cases as inquiry material warrants |
+| [Essays](essays/) | Four thematic essays: regional burns, purchased exemption and images, fire and finitude, gifts and receiving | Draw the pillar briefs from them; verify quotations marked *(verify)* in 04 |
+| [Membrionics](research/MEMBRIONICS.md) and [research report](research/MEMBRIONICS-RESEARCH.md) | Research pass complete: case dossiers, revised hypotheses, conversion permissions, Hohfeld and formation, Burning Man membrane inventory | Supporting reference; close full-text gaps only where the inquiry needs them |
+| [Personas](research/PERSONAS.md) and [pilot](research/PERSONA-PILOT.md) | Six voices piloted on one AI-photo scenario; off-diagonal voices identified | Use to rehearse inquiry sessions and spot missing vantage points, not to stand in for participants |
 
-These are document states, not claims of empirical validation. No constitution
-has been adopted, no current organizational AI practices have been audited,
-and the persona pilot has only been exercised through an authored scenario,
-not tested with participants.
-
-## Existing Research Assets
-
-The foundational synthesis proposes four interacting dimensions: protective
-membrane, plural agency, reciprocal co-creation, and attentional resonance and
-repair. It also distinguishes values, practices, affordances, norms,
-governance, feedback, and failure modes.
-
-- [Regional burns](01-REGIONAL-BURNS.md) explores scale, access, and portability.
-- [Permeable, not purchasable](02-PERMEABLE-NOT-PURCHASABLE.md) explores purchased
-  exemption, spectatorship, image capture, and connectivity.
-- [Two fires and finitude](03-TWO-FIRES-AND-FINITUDE.md) develops ritual,
-  mourning, forgetting, opacity, and a provisional constitution of finitude
-  for AI. It is a substantial input to the new goal, not a complete charter.
-- [Gifts and commodities](04-GIFTS-AND-COMMODITIES.md) develops the receiving
-  side of the gift: conditions of receptivity, self-reliance and ordeal,
-  purchased exemption as lost receptivity, and the diversion and counterflow
-  produced by an anticipated online audience.
-
-The former `PROJECT-GOAL.md` research text and source list now live in
-[BEYOND-TEN-PRINCIPLES.md](BEYOND-TEN-PRINCIPLES.md).
+These are document states, not claims of empirical validation. No
+constitution has been adopted, no current organizational AI practices have
+been audited, and no inquiry session has been held.
 
 ## Sequence of Work
 
-1. **Frame the constitutional problem.** Inventory actors, affected people,
+1. **Scaffold the inquiry.** Pillar briefs, scenario cards, facilitator guide,
+   capture sheet.
+2. **Pilot and revise.** Run one session with a small, varied group; revise the
+   format based on what participants say.
+3. **Frame the constitutional problem.** Inventory actors, affected people,
    decisions, data flows, and sources of authority across organizational AI,
    creative uses, and participant-built systems. Separate documented practices
-   from imagined scenarios. Study how cultures have designed their boundaries
-   (membrionics) so that constitutions can be written as membrane
-   specifications.
-2. **Build a small critique toolkit.** Research the persona lenses, draft a
-   pilot set, and review their blind spots before relying on them.
-3. **Develop contrasting scenarios.** Start with organizational allocation or
-   moderation, participant likeness in AI art, and a participant-built AI
-   installation. Include refusal, contested consent, and failures.
-4. **Draft a family of constitutions.** Distinguish shared protections from
-   context-specific permissions, duties, governance, and experimental space.
-5. **Stress-test and revise.** Apply the cultural model, persona critiques,
-   abuse cases, and practical constraints; record unresolved disagreement.
-6. **Prepare usable outputs.** Produce concise charters, creator guidance,
-   participant-facing explanations, and a worked example for an AI born of
-   the playa. Deployment would be a separate implementation project.
+   from imagined scenarios.
+4. **Widen the inquiry.** Cover the pillar-and-scenario grid with more
+   sessions and more vantage points, including people who would not use AI.
+5. **Draft a family of constitutions.** Shared protections, local charters,
+   and recorded conflicts, stated as aspiration, commitment, and assurance.
+6. **Stress-test and revise.** Apply scenarios, failure cases, persona
+   critiques, and practical constraints; record unresolved disagreement.
+7. **Prepare usable outputs.** Concise charters, creator guidance,
+   participant-facing explanations, and a worked example for an AI born of the
+   playa. Deployment would be a separate implementation project.
 
-## Standards for Progress
+## Notes
 
-A proposal should identify who gains power, who bears risk, who can refuse,
-who can change the rules, and who must repair harm. Distinguish cultural
-aspiration, enforceable duty, technical capability, and speculative possibility.
-Use qualitative feedback without turning community, intimacy, or liminality
-into optimization targets. Preserve disagreements that require participant
-judgment rather than hiding them in a fluent synthesis.
-
+Standards for progress are part of the inquiry principles in [`README.md`](README.md#principles).
 Material in [`../unmoored_self/`](../unmoored_self/) remains a read-only
-conceptual source; all outputs for this project belong here. Proposed
-refinements to its ideas go in
-[`UPDATES-TO-UNMOORED-SELF.md`](UPDATES-TO-UNMOORED-SELF.md).
-
+conceptual source; proposed refinements go in
+[`research/UPDATES-TO-UNMOORED-SELF.md`](research/UPDATES-TO-UNMOORED-SELF.md).
 A cross-agent synopsis of work sessions is kept in [`agent.log`](agent.log).

@@ -17,6 +17,77 @@ community's stewardship charter, or machine instructions. Instructions to a
 model alone cannot allocate ownership, constrain its operators, or supply
 human recourse.
 
+## Start with an Encounter
+
+For the motivation and the six questions, begin with the [overview](README.md).
+The following invented example is a starting point for collaborators; it is
+not a claim about an existing installation or a selected technical design.
+
+A camp offers an AI collaborator that helps strangers make a short performance
+together. People contribute lines, translate, change roles, reject suggestions,
+and decide when the scene ends. The hoped-for result is a shared creative
+experience and greater confidence in making something with unfamiliar people.
+The group need not agree in advance on what the performance will mean.
+
+The surrounding agreement does need to answer concrete questions:
+
+| Question | Proposed answer for this encounter | What must make the answer credible |
+| --- | --- | --- |
+| **What are we making possible together?** | Collaborative improvisation, including translation and accessible ways to contribute | Human hosts and a way to participate without personally using the system; ask participants whether it helped them work together |
+| **What does participation authorize?** | Use of voluntarily submitted text for the immediate performance; no ambient recording, automatic publication, or training reuse | Explain the scope before submission; verify storage and provider behavior; any saved or published output requires a separate decision accounting for affected people |
+| **Who can decide, refuse, change course, or stop?** | Participants can reject suggestions and end their involvement; a named steward can pause the system; sponsors gain no creative veto merely by funding it | Accessible controls, a human contact, a non-AI continuation, and a charter that binds operators as well as participants |
+| **What follows people afterward?** | No automatic participant profile or portable reputation; a stated retention schedule and a distinct voluntary archive | Inventory actual copies and recipients; make deletion promises only for stores the operator can control; give corrections a route to downstream recipients |
+| **Who remains responsible?** | A named, resourced steward handles complaints after the performance and system have ended | Separate restricted recourse evidence from creative material; publish a contact and aftercare period; revoke operational powers without abandoning unresolved duties |
+
+Discussion prompts for "What does participation authorize?": an encounter
+opens something without settling every later permission. A guest can be
+welcome without being entitled to record. A donor can sustain an artwork
+without gaining authority over its meaning. A story offered to a small group
+need not become material for publication, profiling, or model training.
+Whoever controls the microphone can appear to speak for the group; whoever
+maintains an archive can acquire practical control over its future uses. In
+each case, ask what bringing something here entitles someone to do, and who
+could grant that authority.
+
+These are proposed choices, not universal answers. A civic allocation system
+or a long-term collaborative archive would need different permissions and
+retention. Each must explain why its additional powers are necessary and who
+can contest them.
+
+The example also exposes decisions that a values statement cannot settle.
+If one contributor wants the scene preserved and another wants their words
+removed, who decides what may be retained? If the service cannot prevent
+provider reuse, must the project change its service, change its design, or
+withdraw its promise? If translation makes participation easier but routes
+speech outside the camp, how is that tradeoff explained and authorized?
+
+A draft is ready for review when collaborators can answer these questions
+about actual actors and arrangements. It should preserve uncertainty about
+the creative result while making consequential permissions clear. Success
+includes worthwhile participation and practical control of the experiment;
+it does not require proving that anyone underwent an inward transformation.
+
+## From the Encounter to a Constitution
+
+Begin each charter with the five questions above, then specify the powers,
+permissions, responsibilities, and review procedures needed to honor its
+answers. Distinguish three kinds of statement:
+
+- **Cultural aspiration:** what people hope to experience or become able to do.
+- **Institutional commitment:** who owes what, who decides, and what recourse exists.
+- **Technical assurance:** what the actual system can prevent, permit, record,
+  delete, or stop, and how those claims will be checked.
+
+A promise about the first cannot substitute for the other two. Conversely,
+a technically controlled system still needs a worthwhile purpose and people
+willing to maintain its commitments.
+
+Shared protections can govern coercion, consequential exposure, and recourse
+while local charters support different experiments. The agreement for one
+installation cannot authorize another camp's practices or waive a bystander's
+claims. Conflicts among those arrangements are part of the constitutional
+work, not a detail to delegate to the model.
+
 ## Three Contexts to Investigate
 
 | Context | Central power questions | Possible output |
@@ -71,17 +142,25 @@ separate arguments.
 
 ## Starting Materials
 
-- [Beyond the Ten Principles](BEYOND-TEN-PRINCIPLES.md): four dimensions,
+Read the overview and the worked encounter first. The thematic essays
+supply arguments for particular decisions; the analytical documents are
+optional supporting research.
+
+- [Overview](README.md): the pillars of the container, the six questions,
+  and the format for collective inquiry.
+- [Beyond the Ten Principles](research/BEYOND-TEN-PRINCIPLES.md): four dimensions,
   candidate cybernetic commitments, governance, and Goodhart risks.
-- [Permeable, not purchasable](02-PERMEABLE-NOT-PURCHASABLE.md): boundaries,
+- [Permeable, not purchasable](essays/02-PERMEABLE-NOT-PURCHASABLE.md): boundaries,
   attention, images, status, and connectivity.
-- [Two fires and finitude](03-TWO-FIRES-AND-FINITUDE.md): forgetting, sacred
+- [Two fires and finitude](essays/03-TWO-FIRES-AND-FINITUDE.md): forgetting, sacred
   opacity, ritual agency, memory, and retirement.
-- [Membrionics](MEMBRIONICS.md): a vocabulary of membrane architecture
-  (crossings, reversibility, memory, sanction, grace, life cycle) and
-  comparative cases; proposes reading a constitution as a membrane
-  specification.
-- [Personas](PERSONAS.md) and the [pilot](PERSONA-PILOT.md): authored voices
+- [Gifts and commodities](essays/04-GIFTS-AND-COMMODITIES.md): attention, receiving,
+  and opportunities for formation that should not become tests of belonging.
+- [Membrionics](research/MEMBRIONICS.md) and its [research report](research/MEMBRIONICS-RESEARCH.md):
+  optional analytical vocabulary and evidence concerning crossings, rights,
+  formation, memory, grace, and renewal. Their metaphors are not prerequisites
+  for adopting or challenging a constitutional provision.
+- [Personas](research/PERSONAS.md) and the [pilot](research/PERSONA-PILOT.md): authored voices
   for exposing competing needs, to complement engagement with affected
   participants.
 
@@ -106,9 +185,9 @@ while allowing participants to imagine and build unfamiliar forms of life.
 
 ## Candidate Revisions from the Persona Pilot
 
-The [six-persona exercise](PERSONA-PILOT.md) tests an invented AI-photo
-installation against a minimal draft agreement. Its critiques suggest adding
-explicit membrane design to the constitution template: physical boundaries,
+The [six-persona exercise](research/PERSONA-PILOT.md) tests an invented AI-photo
+installation against a minimal draft agreement. Its critiques suggest specifying
+practical conditions in the constitution template: physical boundaries,
 entry and exit, data crossings, asymmetric exposure, return after repair,
 restricted evidence, and retirement of powers and artifacts.
 
