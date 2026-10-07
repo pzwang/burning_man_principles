@@ -22,5 +22,19 @@ Find open directives with: `grep -rn "@@" .`
 ## Agent log
 Append an entry to `agent.log` at the end of any session that changes project files. Newest entries go at the bottom. Use the format described at the top of that file: date, agent family and model, a one-line summary, files touched, and open threads for the next agent. Keep entries to a synopsis; the files and git history hold the detail.
 
+## Peer projects
+Some sources live in sibling repositories that agents can read locally but readers see on GitHub:
+
+| Project | Published (use in links) | Local copy (read from) |
+| --- | --- | --- |
+| The Unmoored Self | https://github.com/pzwang/unmoored-self | `../unmoored_self/` |
+
+- In project files, always link the published URL, never the local path. For a file use `https://github.com/pzwang/unmoored-self/blob/main/<path>`.
+- Read the local copy for content. It may hold uncommitted or unpushed work, so before linking or quoting a file, check that it is published: `git -C ../unmoored_self ls-tree -r --name-only origin/main | grep <path>`.
+- Peer repositories are read-only. Record proposed changes in this project (e.g. `research/UPDATES-TO-UNMOORED-SELF.md`).
+
+## File headers
+Don't add dated "Status" lines to documents; git history records dates. A one-line italic note is fine when it changes how a reader should take the text (e.g. unverified quotations, fictional material, not policy).
+
 
 

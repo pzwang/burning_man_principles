@@ -1,8 +1,8 @@
 # Six Voices at the Membrane
 
-**Status:** Fictional pilot of the six basis voices, 2026-10-05. The epistemic
-status, lens limitations, and off-diagonal voices are in
-[PERSONAS.md](PERSONAS.md); everything below is authored, not evidence. Each
+*A fictional pilot of the six basis voices. Everything below is authored, not
+evidence.* Lens limitations and off-diagonal voices are in
+[PERSONAS.md](PERSONAS.md). Each
 persona can critique the cultural research, [membrionics](MEMBRIONICS.md),
 and [AI constitutions](../AI-CONSTITUTIONS.md).
 

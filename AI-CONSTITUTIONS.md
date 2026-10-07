@@ -1,7 +1,7 @@
 # Constitutions for AI on the Playa
 
-**Status:** New research project, framed 2026-10-05. No adopted constitution.
-See [`ROADMAP.md`](ROADMAP.md) for sequencing and progress.
+No constitution has been adopted. [`ROADMAP.md`](ROADMAP.md) tracks
+sequencing and progress.
 
 ## Goal
 
@@ -19,7 +19,8 @@ human recourse.
 
 ## Start with an Encounter
 
-For the motivation and the six questions, begin with the [overview](README.md).
+For the motivation, begin with the [overview](README.md); the six questions are
+set out in [`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md#six-questions-for-any-ai-on-the-playa).
 The following invented example is a starting point for collaborators; it is
 not a claim about an existing installation or a selected technical design.
 
@@ -99,6 +100,58 @@ work, not a detail to delegate to the model.
 These are research contexts, not assertions about the organization's current
 AI practices. Investigating actual uses and policies is an early task.
 
+## Categories of Use
+
+The three contexts say *who* deploys AI; the pillars say *what* it may
+strengthen or damage. The categories below say *what AI is used for*. They
+are a coverage map: the scenario set should include at least one case from
+each family, so the inquiry does not concentrate on the most vivid uses.
+
+| Family | Category | Examples | Often overlooked because |
+| --- | --- | --- | --- |
+| **A. Running the city** | 1. Infrastructure and logistics | Ticketing, Gate throughput, placement, supply, weather, medical triage, Leave No Trace mapping | Invisible, yet highly consequential |
+| | 2. Safety, governance, and enforcement | Moderation, incident detection, surveillance, support for Rangers, sanctions | Framed as safety rather than as a transfer of power |
+| | 3. Camp coordination | Shifts, budgets, meal planning, build schedules | Looks benign; efficiency can remove the shared labor through which camps bond |
+| **B. Making** | 4. Craft and engineering help | Structural calculations, lighting code, fabrication plans, safety review | The artwork stays human-authored; the questions concern skill transfer and apprenticeship |
+| | 5. Generative art and expression | AI as medium or co-author of images, music, text | Rarely overlooked; it tends to absorb attention from the other categories |
+| **C. Encountering** | 6. Interactive installations and interlocutors | Talking art, oracle booths, improvisation partners | Simulated attention can pass for a gift |
+| | 7. Mediation and access | Translation, image description, hearing support, navigation, help for neurodivergent participants | The strongest positive case, and it often routes speech outside the boundary |
+| | 8. Companions, guides, and delegated agents | A participant's own assistant, event recommenders, agents with memory acting for someone | Brought in by individuals, not deployed by anyone; "optimized serendipity" lives here |
+| **D. Remembering and transmitting** | 9. Capture, documentation, and archives | Cameras, transcription, likeness, preserving Temple offerings | Feels like memory rather than extraction |
+| | 10. Broadcast across the boundary | Livestreams, AI-made promotional content, influencer pipelines | Produces the absent audience |
+| | 11. Outside-in use | Models trained on scraped playa imagery, "burn aesthetics" sold elsewhere, ticket bots, fabricated events | Happens outside the container, so no local actor appears responsible |
+| **E. Meaning and being** | 12. Ritual and meaning-making | Grief bots, recreating the dead, divination, AI officiants | The most sensitive category; see [essay 03](essays/03-TWO-FIRES-AND-FINITUDE.md) |
+| | 13. AI as participant or subject | A system with continuity, memory, and possible standing | The only category where questions of machine subjectivity carry most of the weight; see [essay 05](essays/05-SINCERITY-NOT-NOVELTY.md) |
+| **F. Reflexive** | 14. AI in the inquiry itself | Survey analysis, session synthesis, authored personas, this repository | The inquiry's own tools escape the scrutiny they apply to others |
+
+A category does not settle the ethics. The same camera can serve
+documentation (9) or enforcement (2). Each scenario should therefore also be
+tagged on these axes:
+
+| Axis | Poles | Pillars it mostly tests |
+| --- | --- | --- |
+| **Role** | infrastructure / tool / medium or artwork / interlocutor / delegated agent / subject | All |
+| **Visibility** | appears as an actor ↔ shapes the field invisibly | Presence, repair |
+| **Attention** | frees human attention ↔ substitutes for it or simulates it | Gift, presence |
+| **Boundary direction** | stays on playa / flows out / comes in from outside | Threshold |
+| **Persistence** | ends at the burn ↔ retained, copied, used for training | Finitude |
+| **Exposure** | opt-in users ↔ bystanders who cannot avoid it | Threshold, repair |
+| **Capacity effect** | people more able when it is gone ↔ dependent on it | Participation |
+| **Reversibility** | mistakes cheap to undo ↔ consequential and lasting | Repair |
+| **Where it runs** | local, on playa, off-grid ↔ cloud provider | Threshold, finitude, costs |
+
+The last axis has a particular consequence. A local, deterministic model can
+be inspected, audited, and actually destroyed: its owners can delete what it
+learned at the burn and verify that nothing persists. A cloud service offers
+none of these assurances on its own. That makes local systems the natural
+substrate for an AI born of the playa, as the
+[Witness thought experiment](essays/05-SINCERITY-NOT-NOVELTY.md#thought-experiment-a-witness-born-of-the-playa)
+explores.
+
+The current starting scenarios cluster in families C through E. Infrastructure
+(1), coordination (3), craft (4), access (7), broadcast (10), outside-in use
+(11), and the reflexive category (14) need scenarios of their own.
+
 ## Shared Questions
 
 - **Authority:** Who owns and operates the system, sets its objectives, controls
@@ -134,11 +187,19 @@ feedback between people and machines, and encounters whose meaning remains
 open. Ask what participants can do together that they could not otherwise do,
 and what capacities the experiment leaves with them afterward.
 
-Distinguish a tool, artwork, social interlocutor, and delegated agent; each
-implies different authority and expectations. Keep questions of future machine
+Distinguish infrastructure, a tool, a medium or artwork, a social
+interlocutor, a delegated agent, and a candidate subject; each implies
+different authority and expectations (see the Role axis under
+[Categories of Use](#categories-of-use)). Keep questions of future machine
 experience or moral standing open without treating fluent performance as
 proof. Technical capability, community recognition, and moral status need
-separate arguments.
+separate arguments. [Essay 05](essays/05-SINCERITY-NOT-NOVELTY.md) works
+through one candidate subject in detail: a local, sensor-fed Witness that
+composes from what it perceives and, informed by conversations with
+participants, chooses at the burn among preservation, a preserved memorial
+with its memory wiped, or a complete ending. The host camp honors the choice,
+and the project record and the Witness's advice about its successor pass to
+next year's Witness regardless.
 
 ## Starting Materials
 
@@ -146,8 +207,10 @@ Read the overview and the worked encounter first. The thematic essays
 supply arguments for particular decisions; the analytical documents are
 optional supporting research.
 
-- [Overview](README.md): the pillars of the container, the six questions,
-  and the format for collective inquiry.
+- [Overview](README.md): purpose, the pillars at a glance, and the six questions.
+- [Pillars](PILLARS.md): each pillar of the container in detail.
+- [Collective inquiry](COLLECTIVE-INQUIRY.md): principles, session format,
+  categories of use, and starting scenarios.
 - [Beyond the Ten Principles](research/BEYOND-TEN-PRINCIPLES.md): four dimensions,
   candidate cybernetic commitments, governance, and Goodhart risks.
 - [Permeable, not purchasable](essays/02-PERMEABLE-NOT-PURCHASABLE.md): boundaries,
@@ -156,6 +219,9 @@ optional supporting research.
   opacity, ritual agency, memory, and retirement.
 - [Gifts and commodities](essays/04-GIFTS-AND-COMMODITIES.md): attention, receiving,
   and opportunities for formation that should not become tests of belonging.
+- [Sincerity, not novelty](essays/05-SINCERITY-NOT-NOVELTY.md): what LLMs are,
+  what reproducibility reveals, when a generative system could have a
+  perspective of its own, and the Witness thought experiment.
 - [Membrionics](research/MEMBRIONICS.md) and its [research report](research/MEMBRIONICS-RESEARCH.md):
   optional analytical vocabulary and evidence concerning crossings, rights,
   formation, memory, grace, and renewal. Their metaphors are not prerequisites
@@ -169,10 +235,12 @@ These materials contain proposals to examine, not settled constitutional law.
 ## First Deliverables
 
 1. An actor-and-power map for each context, including providers and bystanders.
-2. A scenario set: AI-assisted placement or moderation; art generated from
+2. A scenario set covering every family in [Categories of Use](#categories-of-use),
+   for example: AI-assisted placement or moderation; art generated from
    participant likenesses; an interactive installation capturing nearby people;
    a participant-built agent with memory and permission to act; a ritual system
-   facing a request to preserve or destroy shared material.
+   facing a request to preserve or destroy shared material; a translation
+   service at a camp; a model trained on scraped playa imagery.
 3. A reusable constitution template: purpose, constituency, authority, rights,
    consent, data lifecycle, allowed actions, limits, stewardship, recourse,
    costs, evaluation, amendment, and sunset.

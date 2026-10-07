@@ -1,10 +1,10 @@
 # Membrionics: The Architecture of Cultural Membranes
 
-**Status:** Research brief revised 2026-10-05 after the
-[research programme](prompts/membrionics-deep-research.md).
-The [research report](MEMBRIONICS-RESEARCH.md) supplies case dossiers,
-passage references, an evidence/access key, counterarguments, and remaining
-verification gaps. See also [ROADMAP.md](../ROADMAP.md).
+This brief was revised after a
+[research programme](prompts/membrionics-deep-research.md). The
+[research report](MEMBRIONICS-RESEARCH.md) supplies case dossiers, passage
+references, an evidence/access key, counterarguments, and remaining
+verification gaps.
 
 *Membrionics* is this project's name for studying the boundaries that let a
 culture exist: what they admit and exclude, how they are crossed, maintained,

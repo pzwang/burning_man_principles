@@ -2,8 +2,6 @@
 
 ## Repairing Participation in a Connected Black Rock City
 
-**Status:** Exploratory brief, 2026-09-18.
-
 This essay applies the four-dimensional model in [`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md) to convenience culture, affluent
 spectatorship, EDM consumption, influencer capture, and ubiquitous satellite connectivity. Its proposals are working synthesis, not current Burning Man policy.
 

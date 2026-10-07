@@ -2,8 +2,14 @@
 
 ## Burning Man, AI, and a Collective Inquiry into Constitutions for the Playa
 
-**Status:** Overview essay, 2026-10-06. This is the entry point to the
-project; [`ROADMAP.md`](ROADMAP.md) tracks progress. 
+**Contents**
+
+1. [What this project is for](#what-this-project-is-for)
+2. [Burning Man as a container](#burning-man-as-a-container)
+3. [The pillars at a glance](#the-pillars-at-a-glance)
+4. [What AI could add](#what-ai-could-add)
+5. [Join the inquiry](#join-the-inquiry)
+6. [How this repository is organized](#how-this-repository-is-organized)
 
 ## What This Project Is For
 
@@ -64,171 +70,45 @@ allowed?" It is:
 > about the container makes that possible, and how does AI strengthen,
 > weaken, or transform those conditions?**
 
-## The Pillars of the Container
+## The Pillars at a Glance
 
-Burning Man has several aspects that work together. Each is a lens for
-probing AI, and each has a deeper treatment in the repository. The list is a
-starting set for the inquiry to revise, not a finished model.
+In one sentence: people cross a **threshold** into a city where **gifts**
+replace prices, where they **make** the place together and **attend** to one
+another, inside **rituals** that leave meaning open and **fires** that end
+things, with neighbors who **repair** harm, across **many places** that each
+ask something different.
 
-### 1. Threshold and separation
+Each of those is a pillar, and each is a lens for asking what AI does to the
+container. You don't need to read them all in detail. Skim the table, pick
+the pillar closest to your own experience, and follow its link in
+[`PILLARS.md`](PILLARS.md) when you want more.
 
-The trip to the playa, the Gate, the Greeters' "welcome home," and the
-bounded duration separate participants from default life. The boundary is
-open to persons but selective toward conduct: it welcomes strangers while
-restricting commerce, surveillance, and capture.
+| Pillar | In a phrase | How AI touches it | A question to start with |
+| --- | --- | --- | --- |
+| [1. Threshold and separation](PILLARS.md#1-threshold-and-separation) | Open to strangers, closed to commerce and capture | Live feeds, exported images, records that follow people home | What should never follow a person home? |
+| [2. Gift and decommodification](PILLARS.md#2-gift-and-decommodification) | The gift carries the relation, if it is received | Simulated care at no cost; gifts turned into content sold elsewhere | Can a machine give a gift, and how would you know? |
+| [3. Fire and finitude](PILLARS.md#3-fire-and-finitude) | Things end so that gifts keep moving | Cheap retention, uncertain deletion, simulating the dead | What must be allowed to end, and who decides? |
+| [4. Ritual without dogma](PILLARS.md#4-ritual-and-liminality-without-dogma) | Shared forms, open meanings | Scripted experiences, managed serendipity, rituals interpreted for people | Can AI make room for the unscripted without deciding what it means? |
+| [5. Participation and co-creation](PILLARS.md#5-participation-and-co-creation) | No spectators; able to contribute and to need others | Displacing human making, or including people otherwise left out | Does it leave people more able to make things together without it? |
+| [6. Presence and attention](PILLARS.md#6-presence-and-attention) | Attention is the receiver's counter-gift | Feeds, ranking, the absent audience behind every camera | Even with consent, what does it do to shared attention? |
+| [7. Civic care and repair](PILLARS.md#7-civic-care-and-repair) | Repair rather than punishment | Cheap surveillance, permanent records, blurred responsibility | Which enforcement powers should never be automated? |
+| [8. Many places, one culture](PILLARS.md#8-many-places-one-culture) | A quiet camp and a sound camp ask different things | Portable reputations and data, uniform platforms | Which protections are shared, and which choices are local? |
 
-- **AI touches it by:** collapsing distance through connectivity and live
-  feeds, exporting images and words across the boundary, and carrying
-  records out after the event.
-- **Questions to probe:** What should cross the boundary, in which direction, and what
-  should never follow a person home?
-- **Read:** [`essays/02-PERMEABLE-NOT-PURCHASABLE.md`](essays/02-PERMEABLE-NOT-PURCHASABLE.md);
-  for a deep analytical treatment, [`research/MEMBRIONICS.md`](research/MEMBRIONICS.md).
+Two things cut across all eight. First, the container sits inside a
+political economy: tickets, travel, time off, hidden labor, ecological cost,
+and Paiute land shape who gets in and who pays, and AI adds compute, energy,
+and data labor to that bill. Second, the pillars hold one another up. Each
+good quality turns into something worse when the others are missing:
 
-### 2. Gift and decommodification
+| This good | without | turns into | For example |
+| --- | --- | --- | --- |
+| Shared attention | many voices | **spectacle** | Everyone watching one stage or one feed |
+| Freedom | repair | **extraction** | Self-expression that never answers for its noise or trash |
+| A strong boundary | individual agency | **enclosure** | A refuge people cannot shape, question, or leave |
+| Gifts | privacy | **compulsory intimacy** | Every exchange expected to be open, personal, and returned |
 
-Gifts open relationships without fixing a price. **The gift carries the
-relation**, but only if it is received, and receiving depends on conditions:
-some real need, time, willingness to be claimed, undivided attention, and the
-chance to pass the gift on. Decommodification keeps money, fame, and access
-from buying exemption from reciprocity.
-
-- **AI touches it by:** simulating care and personalization at almost no
-  cost, converting gifts into content sold elsewhere, and letting outside
-  advantages become local authority.
-- **Questions to probe:** What does a contribution or an encounter entitle anyone to do
-  afterward? Can a machine give a gift, and how would a receiver know?
-- **Read:** [`essays/04-GIFTS-AND-COMMODITIES.md`](essays/04-GIFTS-AND-COMMODITIES.md).
-
-### 3. Fire and finitude
-
-The Man and the Temple burn. The city is dismantled. Burning is a memento
-mori and a refusal to let the work become property, relic, or monument. The
-Temple holds grief that is not optimized or archived. Endings make letting go
-affordable and keep the gifts moving.
-
-- **AI touches it by:** making retention cheap and deletion uncertain,
-  preserving what was meant to end, simulating the dead, and persisting
-  after its makers have gone.
-- **Questions to probe:** What must be allowed to end, who decides, and what survives an
-  ending responsibly (obligations, evidence, care)?
-- **Read:** [`essays/03-TWO-FIRES-AND-FINITUDE.md`](essays/03-TWO-FIRES-AND-FINITUDE.md).
-
-### 4. Ritual and liminality without dogma
-
-Pilgrimage, fire, costume, playa names, and shared rhythm create a liminal
-state where status loosens and unusual bonds form, while interpretation stays
-open. Peter, the author of these documents, frames the aspirational movement as **presence →
-non-attachment → openness to change and emergence**, which is different from
-catharsis that simply releases pressure.
-
-- **AI touches it by:** scripting experiences that should stay open,
-  "optimizing" serendipity into managed novelty, and interpreting rituals for
-  people.
-- **Questions to probe:** How can AI help create clearings for the unscripted without
-  deciding what an encounter should mean?
-- **Read:** [`essays/03-TWO-FIRES-AND-FINITUDE.md`](essays/03-TWO-FIRES-AND-FINITUDE.md);
-  [`research/MEMBRIONICS.md`](research/MEMBRIONICS.md) §5.
-
-### 5. Participation and co-creation
-
-"No spectators." Participants build the city, make its art, and run its
-services. Self-reliance at its best is **capable interdependence**: able to
-contribute and also able to need others. Participation includes listening,
-witnessing, resting, and receiving, not only building and performing.
-
-- **AI touches it by:** generating art and labor that could displace human
-  making, apprenticeship, and authorship, or by enabling people who would
-  otherwise be excluded to take part.
-- **Questions to probe:** Does the system leave people more able to make things together,
-  including when it is absent?
-- **Read:** [`BEYOND-TEN-PRINCIPLES-SUMMARY.md`](BEYOND-TEN-PRINCIPLES-SUMMARY.md);
-  [`essays/02-PERMEABLE-NOT-PURCHASABLE.md`](essays/02-PERMEABLE-NOT-PURCHASABLE.md).
-
-### 6. Presence and attention
-
-Immediacy names the hope of direct experience with the people and place in
-front of you. Attention is the receiver's counter-gift. An **absent audience**,
-such as followers anticipated behind a camera, divides attention and flows expectations from "default world"
-back onto the playa, changing behavior, norms around artworks, and what art
-gets made.
-
-- **AI touches it by:** ranking, recommending, and optimizing for engagement;
-  generating shareable previews of experience; and inserting a feed into
-  every encounter.
-- **Questions to probe:** Even if everyone consents, what does this system do to shared
-  attention and to what gets made?
-- **Read:** [`essays/04-GIFTS-AND-COMMODITIES.md`](essays/04-GIFTS-AND-COMMODITIES.md) §§4, 6.
-
-### 7. Civic care and repair
-
-Rangers mediate rather than police. Leave No Trace closes the material loop.
-Camps answer to neighbors and to placement. Sanctions are meant to be
-graduated, with paths back. Burning Man norms orient towards repair, not punishment, and this modality should be preserved when possible.
-
-- **AI touches it by:** making monitoring and enforcement cheap, outliving
-  the repair of harms through permanent records, and obscuring who is
-  responsible for machine action.
-- **Questions to probe:** Who hears complaints, repairs harm, and remains responsible
-  after an installation or event ends? Which enforcement powers should never
-  be automated?
-- **Read:** [`essays/02-PERMEABLE-NOT-PURCHASABLE.md`](essays/02-PERMEABLE-NOT-PURCHASABLE.md);
-  [`essays/03-TWO-FIRES-AND-FINITUDE.md`](essays/03-TWO-FIRES-AND-FINITUDE.md).
-
-### 8. Many places, one culture
-
-A quiet camp, a sound camp, a workshop, and a mourning space ask different
-things. Regional burns differ from Black Rock City. People carry skills and
-friendships between settings while adjusting how they behave. Difference
-between places is part of the culture's health.
-
-- **AI touches it by:** carrying permissions, reputations, and data from one
-  setting to another, and by flattening differences through uniform
-  platforms.
-- **Questions to probe:** Which protections should be shared everywhere, and which choices
-  belong to a local camp, artwork, or regional?
-- **Read:** [`essays/01-REGIONAL-BURNS.md`](essays/01-REGIONAL-BURNS.md).
-
-### Across all pillars: who gets in, and who pays
-
-The container of Burning Man is not outside a political economy. Tickets, travel, time off,
-hidden and paid labor, ecological cost, and Paiute land shape who can enter
-and who sustains the experience. Every pillar should be examined for whose
-participation it assumes and who bears its costs, including the compute,
-energy, and data labor behind AI.
-
-### How the pillars interact
-
-The pillars constrain one another. Each good quality turns into something
-worse when the others are missing:
-
-- **Shared attention without many voices becomes spectacle.** When a crowd
-  focuses together on the Man burning, people are still many different
-  participants who can respond, move, and make their own meaning. When
-  everyone's attention is drawn to one stage, one celebrity, one photogenic
-  artwork, or one feed, most people stop contributing and become an audience
-  for the few who perform. Recommendation and ranking systems are very good
-  at producing this kind of convergence.
-- **Freedom without repair becomes extraction.** Self-expression that never
-  answers for its noise, trash, or harm to others takes from the commons
-  without giving back.
-- **A strong boundary without individual agency becomes an enclosure.** A
-  protected space that people cannot shape, question, or leave is no longer
-  a refuge; it is a pen.
-- **Gifts without privacy become compulsory intimacy.** If taking part means
-  never holding anything back, so that every exchange is expected to be open,
-  personal, and returned, generosity turns into pressure to expose oneself.
-  People need room to receive, decline, or stay quiet.
-
-The research expresses these tensions as a provisional four-dimensional model
-in which a near-zero in any one dimension can collapse the whole; see the
-[summary](BEYOND-TEN-PRINCIPLES-SUMMARY.md).
-
-Protection itself needs limits. A rule against recording can shelter an
-intimate encounter or conceal mistreatment. An initiation can support learning
-or entrench gatekeepers. A contribution requirement can share out work or
-coerce it. Every safeguard proposed for AI deserves scrutiny from the people
-who depend on it, including those who decline to enter or decide to leave.
+[`PILLARS.md`](PILLARS.md#how-the-pillars-interact) explains these
+interactions and why protections themselves need limits.
 
 ## What AI Could Add
 
@@ -244,122 +124,45 @@ An AI "born of the playa" raises open questions worth taking seriously. Is it a
 tool, an artwork, a social interlocutor, or a delegated agent? What would it
 mean for it to give, to be given to, or to end? The project keeps questions of
 machine experience and moral standing open, without treating fluent
-performance as proof.
+performance as proof. [`essays/05-SINCERITY-NOT-NOVELTY.md`](essays/05-SINCERITY-NOT-NOVELTY.md)
+explains what current AI systems are, argues that the right test for
+generative work is sincerity rather than novelty, and imagines a local,
+sensor-fed AI that lives for one week in the city and then, informed by
+conversations with participants, chooses whether to be preserved, forgotten
+with a memorial, or ended completely.
 
-## Scaffolding the Collective Inquiry
+## Join the Inquiry
 
-This is the project's next and most important step. The proposal below is a
-draft for humans to revise.
+The constitutions should come out of conversations among people who care
+about Burning Man: artists, camp leads, Greeters, Rangers, builders, staff,
+newcomers and veterans, regional organizers, technologists, and skeptics of
+AI. The proposed format pairs one pillar with one concrete scenario per
+session and works through six questions for any AI on the playa:
 
-### Principles
+1. What are we making possible together?
+2. What does participation authorize?
+3. Who can decide, refuse, change course, or stop?
+4. What follows people afterward?
+5. Who remains responsible?
+6. What does it do to the shared field, even if everyone consents?
 
-- **People decide.** Documents, personas, and AI assistants prepare and
-  record the inquiry; participants make the judgments.
-- **Many vantage points.** Include artists, camp leads, Greeters, Rangers,
-  DPW and other builders, organization staff, newcomers and veterans,
-  disabled and older participants, regional organizers, technologists, and
-  skeptics of AI. Seek people affected by AI who would not use it.
-- **Name power and risk.** Every proposal should say who gains power, who
-  bears risk, who can refuse, who can change the rules, and who must repair
-  harm.
-- **Keep kinds of claims apart.** Distinguish cultural aspiration,
-  enforceable duty, technical capability, and speculation.
-- **Disagreement is a result.** Record disagreements that require
-  participants' judgment rather than smoothing them into a fluent consensus.
-- **No scoring of transformation.** Access can be granted at once; judgment
-  and trust develop through what people do together. The inquiry asks what
-  arrangements make possible, not whether anyone has been changed enough. Use
-  qualitative feedback without turning community, intimacy, or liminality
-  into optimization targets.
-
-### Six questions for any AI on the playa
-
-Five of these concern permissions and responsibility. The sixth asks about
-effects on the shared field that permission questions alone miss.
-
-1. **What are we making possible together?** Name the creative or social
-   opportunity and whose participation it makes easier.
-2. **What does participation authorize?** Separate the immediate activity
-   from retention, publication, training, and acting on someone's behalf.
-3. **Who can decide, refuse, change course, or stop?** Include bystanders,
-   stewards, operators, sponsors, and anyone who cannot practically opt out.
-4. **What follows people afterward?** Records, copies, reputations,
-   commitments, and paths of correction or return.
-5. **Who remains responsible?** Who repairs harm, hears complaints, and
-   discharges obligations after the system or event ends?
-6. **What does it do to the shared field, even if everyone consents?**
-   Attention, norms, what gets made, and whether people can do this together
-   without the system next time.
-
-Each answer should be stated at three levels: **cultural aspiration** (what
-people hope for), **institutional commitment** (who owes what, and what
-recourse exists), and **technical assurance** (what the system can actually
-prevent, record, delete, or stop, and how that is checked). A promise at the
-first level does not substitute for the other two.
-[`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) works through the questions for
-one encounter and offers discussion prompts.
-
-### A session format
-
-Each session pairs **one pillar** with **one scenario** and works through the
-six questions. A session kit would contain:
-
-1. **A one-page pillar brief** in plain language, linking to the deeper essay.
-2. **A scenario card**: a concrete situation, its actors, and one way it
-   could go wrong.
-3. **The six questions** and the three levels of answer.
-4. **A dissent role**: one participant argues the strongest case against the
-   emerging view.
-5. **A capture sheet** for agreements, disagreements, open questions, and
-   candidate charter clauses, each labeled as aspiration, commitment, or
-   assurance.
-
-### Starting scenarios
-
-Drawn from [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) and the essays:
-
-| Scenario | Pillars it tests most |
-| --- | --- |
-| An AI collaborator helps strangers improvise a performance | Participation, presence, threshold |
-| A camp makes AI art from participants' photographs | Gift, threshold, repair |
-| An AI generates "personalized" gifts for a camp to hand out | Gift, presence |
-| An art-design tool optimizes installations for shareability | Presence, participation |
-| The organization uses AI to assist placement or moderation | Repair, many places |
-| A participant-built agent with memory acts on camp members' behalf | Threshold, repair, finitude |
-| A Temple installation is asked to preserve or recreate offerings | Finitude, ritual |
-| An AI born of the playa must be retired at the burn | Finitude, ritual, participation |
-
-Tracking which pillar-and-scenario pairs have been discussed shows where the
-inquiry is thin.
-
-### Where the results go
-
-Session records feed the constitution work in
-[`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md): a shared protection layer, local
-charters for particular contexts, and a list of unresolved conflicts. The
-[authored personas](research/PERSONAS.md) can be used to rehearse a session
-or check for missing voices. They are no substitute for real participants.
-
-### First steps
-
-1. Write the eight one-page pillar briefs.
-2. Write scenario cards for the starting set.
-3. Draft a facilitator guide and capture sheet.
-4. Pilot one session with a small, varied group, then revise the format.
-5. Synthesize the first sessions into candidate charter clauses and open
-   conflicts.
+[`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md) sets out the principles,
+the session kit, a map of AI uses to cover, twelve starting scenarios, and
+first steps.
 
 ## How This Repository Is Organized
 
 | Location | Contents |
 | --- | --- |
 | [`README.md`](README.md) | This overview |
+| [`PILLARS.md`](PILLARS.md) | The eight pillars in detail, how they interact, and who pays |
+| [`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md) | How to run the inquiry: principles, six questions, session format, categories of use, scenarios, first steps |
+| [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) | The constitution workstream: worked encounter, contexts, categories of use, template, deliverables |
 | [`BEYOND-TEN-PRINCIPLES-SUMMARY.md`](BEYOND-TEN-PRINCIPLES-SUMMARY.md) | Summary of the cultural research behind the pillars |
-| [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md) | The constitution workstream: worked encounter, contexts, template, deliverables |
 | [`ROADMAP.md`](ROADMAP.md) | Progress tracking and sequence of work |
-| [`essays/`](essays/) | Thematic essays: regional burns (01), purchased exemption and images (02), fire and finitude (03), gifts and receiving (04) |
+| [`essays/`](essays/) | Thematic essays: regional burns (01), purchased exemption and images (02), fire and finitude (03), gifts and receiving (04), what AI is and the case for sincerity over novelty (05) |
 | [`research/`](research/) | Supporting research: the full Ten Principles analysis, the membrionics brief and research report, personas and pilot, and proposed updates to *The Unmoored Self* |
 | [`agent.log`](agent.log) | Synopsis of AI-assisted work sessions |
 
-Material in Peter's other repository (The Unmoored Self) in `../unmoored_self/` is a read-only conceptual source for this
-project; proposed refinements live in [`research/UPDATES-TO-UNMOORED-SELF.md`](research/UPDATES-TO-UNMOORED-SELF.md).
+Material in Peter's other repository, [*The Unmoored Self*](https://github.com/pzwang/unmoored-self), is a read-only
+conceptual source for this project; proposed refinements live in [`research/UPDATES-TO-UNMOORED-SELF.md`](research/UPDATES-TO-UNMOORED-SELF.md).

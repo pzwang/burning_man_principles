@@ -1,6 +1,6 @@
 # Updates to The Unmoored Self
 
-**Purpose:** [`../unmoored_self/`](../../unmoored_self/) is a read-only source for
+[*The Unmoored Self*](https://github.com/pzwang/unmoored-self) is a read-only source for
 this project. Where work here refines, qualifies, or extends its ideas, the
 proposed changes are recorded below for the author to consider. Nothing here
 has been applied to the original.

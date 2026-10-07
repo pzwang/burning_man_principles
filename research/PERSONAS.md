@@ -1,8 +1,7 @@
 # Personas for Inquiry and Critique
 
-**Status:** Six pilot personas and one worked critique drafted 2026-10-05;
-off-diagonal voices identified but not yet written. See
-[`ROADMAP.md`](../ROADMAP.md).
+Six pilot personas and one worked critique are drafted; the off-diagonal
+voices are identified but not yet written.
 
 **Epistemic status (applies to this file and
 [`PERSONA-PILOT.md`](PERSONA-PILOT.md)).** Personas are authored perspectives

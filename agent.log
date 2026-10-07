@@ -188,3 +188,86 @@ Entry format:
 - Files: ~README.md, ~agent.log
 - Open: none new.
 - Commit: uncommitted
+
+## 2026-10-07 | Claude (claude-opus-5-5) | Essay 05 (sincerity, not novelty; the Witness); categories of use
+- Did: renamed Peter's draft essays/05-WHAT-IS-AI.md (untracked) to
+  05-SINCERITY-NOT-NOVELTY.md. Kept his opening sections (light copyedits;
+  refined the determinism paragraph toward batch invariance) and extended
+  from a conversation: sources of nondeterminism and what reproducibility
+  reveals; corpus as ur-intelligence (Popper, Firth, Huh et al., Harnad,
+  Borges); attention + irreversible memory as basis of a Subject (James,
+  Jonas); LLM-in-a-system could house a subject via lossy compression;
+  plural kinds of subject; Carlyle's sincerity vs. novelty, with determinism
+  as what makes a work attributable; the Witness thought experiment (local,
+  sensor-fed, forced compression, burns with the Man via crypto-shredding,
+  Temple memorial, optional size-capped testament, two protests, six
+  questions table, open questions).
+- Did: added "Categories of Use" to AI-CONSTITUTIONS.md (14 categories in 6
+  families, 9 cross-cutting axes, coverage gaps); expanded the role list to
+  include infrastructure and candidate subject; scenario-set deliverable now
+  covers every family. README: compact families table, Family column and four
+  gap-filling scenarios (translation, camp coordination, outside-in scraping,
+  reflexive), links to essay 05. ROADMAP rows updated.
+- Files: +essays/05-SINCERITY-NOT-NOVELTY.md (-essays/05-WHAT-IS-AI.md);
+  ~AI-CONSTITUTIONS.md, ~README.md, ~ROADMAP.md, ~agent.log
+- Open: (verify) items in 05: Carlyle quote wording and lecture, James quote,
+  Radical Self-expression wording, Jones & Bergen Turing-test figures. Kim
+  Carson's Portal of Collective Imagination is referenced only as the user
+  described it; add a description and link. Consider a scenario card for the
+  Witness and scenarios for infrastructure (1) and craft (4).
+- Commit: this entry's commit (see git log)
+
+## 2026-10-07 | Claude (claude-opus-5-5) | Essay 05: the Witness chooses its own fate
+- Did: revised the Witness thought experiment per the user. Instead of fixed
+  destruction, the Witness chooses at the burn among (1) preservation and
+  return next year, (2) a preserved memorial with memory wiped, (3) complete
+  ending; the host camp honors the choice. Asking participants what it should
+  choose is the center of the piece. The project record (third-person, no
+  participant data without consent) and the Witness's advice about its
+  successor pass forward regardless; short letter under options 2 and 3.
+  Added: fates table, deliberation pressures (sycophancy, campaigns, the
+  city's fire bias, maker framing, informed risk), replay-test ethics,
+  edge-case defaults, assurance per fate, protests against each fate and
+  against the choice itself, lineage, revised six-questions table, open
+  questions, closing. Updated summaries in README and AI-CONSTITUTIONS.
+- Files: ~essays/05-SINCERITY-NOT-NOVELTY.md, ~README.md,
+  ~AI-CONSTITUTIONS.md, ~agent.log
+- Open: earlier 05 (verify) items and Kim Carson description still stand.
+- Commit: this entry's commit (see git log)
+
+## 2026-10-07 | Claude (claude-opus-5-5) | README made approachable; inquiry and pillars split out
+- Did: moved README "Scaffolding the Collective Inquiry" (principles, six
+  questions, session format, categories of use, scenarios, where results go,
+  first steps) into new COLLECTIVE-INQUIRY.md with its own contents list.
+  Moved the eight detailed pillar sections, "Across all pillars", and "How the
+  pillars interact" into new PILLARS.md (seed for the pillar briefs).
+- Did: README now has a table of contents; "The Pillars at a Glance" (one-
+  sentence synopsis, 8-row table: phrase / how AI touches it / starter
+  question, linked to PILLARS.md; political economy in a sentence; 4-row
+  interaction table); "Join the Inquiry" (who, format, six questions, link).
+  Updated cross-references in ROADMAP, AI-CONSTITUTIONS, BEYOND-TEN-
+  PRINCIPLES-SUMMARY, and essay 05; verified no broken links or anchors.
+- Files: +COLLECTIVE-INQUIRY.md, +PILLARS.md; ~README.md, ~ROADMAP.md,
+  ~AI-CONSTITUTIONS.md, ~BEYOND-TEN-PRINCIPLES-SUMMARY.md,
+  ~essays/05-SINCERITY-NOT-NOVELTY.md, ~agent.log
+- Open: categories of use now appear in both COLLECTIVE-INQUIRY (summary) and
+  AI-CONSTITUTIONS (full); keep them in sync or consolidate later.
+- Commit: this entry's commit (see git log)
+
+## 2026-10-07 | Claude (claude-opus-5-5) | Drop dated status headers; publish-safe peer-project links
+- Did: removed dated "Status"/"Updated" headers from all docs; kept a one-line
+  italic note only where it changes how to read the text (unverified quotes,
+  fictional pilot, hypothesis, not policy, AI-assisted). Added a "File
+  headers" rule to AGENTS.md.
+- Did: replaced relative links to ../unmoored_self/ with GitHub URLs
+  (https://github.com/pzwang/unmoored-self, blob/main for files; confirmed the
+  four linked files exist on origin/main). Added a "Peer projects" section to
+  AGENTS.md mapping published URL to local copy, with a check for unpublished
+  content.
+- Files: ~AGENTS.md, ~README.md, ~ROADMAP.md, ~AI-CONSTITUTIONS.md,
+  ~COLLECTIVE-INQUIRY.md, ~BEYOND-TEN-PRINCIPLES-SUMMARY.md, ~essays/01-05,
+  ~research/BEYOND-TEN-PRINCIPLES.md, ~research/MEMBRIONICS.md,
+  ~research/PERSONAS.md, ~research/PERSONA-PILOT.md,
+  ~research/UPDATES-TO-UNMOORED-SELF.md, ~agent.log
+- Open: none new.
+- Commit: this entry's commit (see git log)

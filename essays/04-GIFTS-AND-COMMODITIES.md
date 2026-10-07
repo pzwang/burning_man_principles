@@ -2,10 +2,8 @@
 
 ## Receiving, Diversion, and the Absent Audience
 
-**Status:** Exploratory essay, 2026-10-05. Developed from a conversation with
-the project author. Quotations marked *(verify)* are from memory and need
-checking against the text before reuse. Proposals are working synthesis, not
-Burning Man policy.
+*Quotations marked (verify) are from memory and need checking before reuse.
+Proposals are working synthesis, not Burning Man policy.*
 
 [`MEMBRIONICS.md`](../research/MEMBRIONICS.md) describes playa gifts as deliberately
 singularized: **the gift carries the relation.** This essay asks what that

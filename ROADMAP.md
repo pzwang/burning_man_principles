@@ -1,8 +1,9 @@
 # Roadmap: Burning Man, AI, and Cybernetic Community
 
-**Updated:** 2026-10-06. This file tracks workstreams, progress, and next
-steps. The project's purpose, the pillars of the container, and the proposed
-format for collective inquiry are in the overview, [`README.md`](README.md).
+This file tracks workstreams, progress, and next steps. The project's purpose and the pillars at a glance are in the overview,
+[`README.md`](README.md); the pillars in detail are in [`PILLARS.md`](PILLARS.md);
+the proposed format for collective inquiry is in
+[`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md).
 
 ## Current Focus
 
@@ -17,12 +18,15 @@ attention, repair, and the plurality of places carry equal weight.
 
 ## Reading Path for Collaborators
 
-1. [`README.md`](README.md): purpose, pillars, six questions, inquiry format.
+1. [`README.md`](README.md): purpose, the pillars at a glance, the six questions.
+   Then [`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md) for how sessions run,
+   and [`PILLARS.md`](PILLARS.md) for any pillar in depth.
 2. [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md#start-with-an-encounter): a
    worked encounter and the constitution workstream.
 3. The [essays](essays/) as needed: 02 for permissions and purchased
    exemption, 04 for gifts and receiving, 03 for fire, memory, and endings, 01
-   for how practices travel.
+   for how practices travel, 05 for what AI is and when it could have a
+   perspective of its own.
 4. [`BEYOND-TEN-PRINCIPLES-SUMMARY.md`](BEYOND-TEN-PRINCIPLES-SUMMARY.md) and
    the [research](research/) directory for background.
 
@@ -30,10 +34,10 @@ attention, repair, and the plurality of places carry equal weight.
 
 | Workstream | Current state | Next concrete result |
 | --- | --- | --- |
-| **Collective inquiry** ([`README.md`](README.md#scaffolding-the-collective-inquiry)) | Format proposed: one pillar and one scenario per session, six questions, dissent role, capture sheet; eight starting scenarios listed | Write the eight pillar briefs and scenario cards; draft a facilitator guide; pilot one session |
-| [AI constitutions](AI-CONSTITUTIONS.md) | Worked creative encounter, five constitutional questions, three levels of statement, three contexts, template outline | Revisit after the first inquiry sessions; add the sixth question (shared field) and failure variants of the worked encounter |
+| **Collective inquiry** ([`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md)) | Format proposed: one pillar and one scenario per session, six questions, dissent role, capture sheet; twelve starting scenarios tagged by family of use | Write the eight pillar briefs and scenario cards; draft a facilitator guide; pilot one session |
+| [AI constitutions](AI-CONSTITUTIONS.md) | Worked creative encounter, five constitutional questions, three levels of statement, three contexts, fourteen categories of use in six families with cross-cutting axes, template outline | Revisit after the first inquiry sessions; add the sixth question (shared field) and failure variants of the worked encounter |
 | [Ten Principles research](research/BEYOND-TEN-PRINCIPLES.md) ([summary](BEYOND-TEN-PRINCIPLES-SUMMARY.md)) | Initial pass dated 2026-09-18; four-dimensional model, cybernetic commitments, Goodhart risks | Test the model against successful and failed cases as inquiry material warrants |
-| [Essays](essays/) | Four thematic essays: regional burns, purchased exemption and images, fire and finitude, gifts and receiving | Draw the pillar briefs from them; verify quotations marked *(verify)* in 04 |
+| [Essays](essays/) | Five thematic essays: regional burns, purchased exemption and images, fire and finitude, gifts and receiving, and what AI is (sincerity over novelty, with the Witness thought experiment) | Draw the pillar briefs from them; verify quotations marked *(verify)* in 04 and 05; consider a scenario card for the Witness |
 | [Membrionics](research/MEMBRIONICS.md) and [research report](research/MEMBRIONICS-RESEARCH.md) | Research pass complete: case dossiers, revised hypotheses, conversion permissions, Hohfeld and formation, Burning Man membrane inventory | Supporting reference; close full-text gaps only where the inquiry needs them |
 | [Personas](research/PERSONAS.md) and [pilot](research/PERSONA-PILOT.md) | Six voices piloted on one AI-photo scenario; off-diagonal voices identified | Use to rehearse inquiry sessions and spot missing vantage points, not to stand in for participants |
 
@@ -63,8 +67,8 @@ been audited, and no inquiry session has been held.
 
 ## Notes
 
-Standards for progress are part of the inquiry principles in [`README.md`](README.md#principles).
-Material in [`../unmoored_self/`](../unmoored_self/) remains a read-only
+Standards for progress are part of the inquiry principles in [`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md#principles).
+Material in [*The Unmoored Self*](https://github.com/pzwang/unmoored-self) remains a read-only
 conceptual source; proposed refinements go in
 [`research/UPDATES-TO-UNMOORED-SELF.md`](research/UPDATES-TO-UNMOORED-SELF.md).
 A cross-agent synopsis of work sessions is kept in [`agent.log`](agent.log).

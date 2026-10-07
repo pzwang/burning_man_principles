@@ -61,10 +61,10 @@ language. The analysis should remain capable of saying both that an element is
 socially powerful and that its benefits are distributed unequally or sustained
 by hidden labor, capital, ecological cost, or coercion.
 
-Material in [`../unmoored_self/`](../../unmoored_self/) may inform this project,
+Material in [*The Unmoored Self*](https://github.com/pzwang/unmoored-self) may inform this project,
 especially its accounts of embodied co-presence, de-simulation, relational
 selfhood, attention, norms, obligation, conviviality, and the medium as an
-active participant. That directory is a read-only source for this project; no
+active participant. That repository is a read-only source for this project; no
 project output will be written there.
 
 ## Working Standard
@@ -90,8 +90,8 @@ designed, inhabited, governed, or evaluated.
 
 ## Initial Research and Working Synthesis
 
-**Status:** Initial research pass, 2026-09-18. This is a starting hypothesis,
-not a settled replacement for the Ten Principles.
+*This is a starting hypothesis, not a settled replacement for the Ten
+Principles.*
 
 ### Companion Essays
 
@@ -326,7 +326,7 @@ negative feedback when intensity becomes harm.
 
 This dimension joins Immediacy with the experiential side of Participation and
 the closure functions of Leaving No Trace and Civic Responsibility. It draws on
-the view from `unmoored_self` that attention is constitutive, its exchange is
+the view from *The Unmoored Self* that attention is constitutive, its exchange is
 intimate, and collective attention is a commons.
 
 Failure poles: distraction, abstraction, and spectacle at one end; captured
@@ -577,12 +577,12 @@ claim in a source.
 - Jess Hohenstein et al., ["Artificial Intelligence in Communication Impacts Language and Social Relationships"](https://www.nature.com/articles/s41598-023-30938-9) (2023).
 - Marilyn Strathern, ["Improving Ratings: Audit in the British University System"](https://doi.org/10.1002/(SICI)1234-981X(199707)5:3%3C305::AID-EURO184%3E3.0.CO;2-4) (1997).
 
-### Local Conceptual Sources
+### Conceptual Sources from *The Unmoored Self*
 
-- [`../unmoored_self/briefing/04-interventions-and-their-limits.md`](../../unmoored_self/briefing/04-interventions-and-their-limits.md), Burning Man as a city-scale constructed situation and the limits of temporary interventions.
-- [`../unmoored_self/briefing/07-design-implications.md`](../../unmoored_self/briefing/07-design-implications.md), embodied life, relationships, norms, privacy, attention, and conviviality over engagement.
-- [`../unmoored_self/references/relations-axioms-and-principles.md`](../../unmoored_self/references/relations-axioms-and-principles.md), the relational inversion and media as active participants.
-- [`../unmoored_self/references/edelman-what-is-solidarity-made-of.md`](../../unmoored_self/references/edelman-what-is-solidarity-made-of.md), natural solidarity, expressive contribution, co-appreciation, and infinite play.
+- [`briefing/04-interventions-and-their-limits.md`](https://github.com/pzwang/unmoored-self/blob/main/briefing/04-interventions-and-their-limits.md), Burning Man as a city-scale constructed situation and the limits of temporary interventions.
+- [`briefing/07-design-implications.md`](https://github.com/pzwang/unmoored-self/blob/main/briefing/07-design-implications.md), embodied life, relationships, norms, privacy, attention, and conviviality over engagement.
+- [`references/relations-axioms-and-principles.md`](https://github.com/pzwang/unmoored-self/blob/main/references/relations-axioms-and-principles.md), the relational inversion and media as active participants.
+- [`references/edelman-what-is-solidarity-made-of.md`](https://github.com/pzwang/unmoored-self/blob/main/references/edelman-what-is-solidarity-made-of.md), natural solidarity, expressive contribution, co-appreciation, and infinite play.
 
 ## Current Compression
 

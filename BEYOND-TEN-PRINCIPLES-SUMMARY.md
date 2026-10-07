@@ -1,10 +1,9 @@
 # Beyond the Ten Principles: Summary
 
-**Status:** Summary, 2026-10-06, of
-[`research/BEYOND-TEN-PRINCIPLES.md`](research/BEYOND-TEN-PRINCIPLES.md)
-(initial research pass, 2026-09-18). The full document holds the argument,
-tables, and sources. Its model is a working hypothesis, not a replacement for
-the Ten Principles.
+This summarizes
+[`research/BEYOND-TEN-PRINCIPLES.md`](research/BEYOND-TEN-PRINCIPLES.md), which
+holds the full argument, tables, and sources. Its model is a working
+hypothesis, not a replacement for the Ten Principles.
 
 ## The Question
 
@@ -124,6 +123,6 @@ The research's compressed hypothesis:
 > embodied attention on one another; and closes material and social feedback
 > loops through care, repair, and accountable limits.
 
-The pillars in [`README.md`](README.md) build on this model. They add gift and
+The [pillars](PILLARS.md) build on this model. They add gift and
 receiving, fire and finitude, ritual, and the plurality of places as distinct
 lenses developed in the [essays](essays/).

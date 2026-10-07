@@ -2,8 +2,6 @@
 
 ## Finitude, Mourning, and a Humane Constitution for AI
 
-**Status:** Exploratory brief, 2026-09-18.
-
 This essay extends the load-bearing conditions and four-dimensional model in
 [`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md). It distinguishes historical evidence from
 interpretation and does not claim one authorized or universal meaning for either

@@ -2,8 +2,6 @@
 
 ## Regional Burns Through the Four-Dimensional Model
 
-**Status:** Exploratory brief, 2026-09-18.
-
 This essay extends the provisional model in
 [`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md): protective membrane, plural agency,
 reciprocal co-creation, and attentional resonance with repair. It treats the
