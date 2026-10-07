@@ -21,8 +21,8 @@ attention, repair, and the plurality of places carry equal weight.
 1. [`README.md`](README.md): purpose, the pillars at a glance, the six questions.
    Then [`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md) for how sessions run,
    and [`PILLARS.md`](PILLARS.md) for any pillar in depth.
-2. [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md#start-with-an-encounter): a
-   worked encounter and the constitution workstream.
+2. [`AI-CONSTITUTIONS.md`](AI-CONSTITUTIONS.md): why constitutions, what they
+   must cover, and how we build them.
 3. The [essays](essays/) as needed: 02 for permissions and purchased
    exemption, 04 for gifts and receiving, 03 for fire, memory, and endings, 01
    for how practices travel, 05 for what AI is and when it could have a
@@ -35,7 +35,7 @@ attention, repair, and the plurality of places carry equal weight.
 | Workstream | Current state | Next concrete result |
 | --- | --- | --- |
 | **Collective inquiry** ([`COLLECTIVE-INQUIRY.md`](COLLECTIVE-INQUIRY.md)) | Format proposed: one pillar and one scenario per session, six questions, dissent role, capture sheet; twelve starting scenarios tagged by family of use | Write the eight pillar briefs and scenario cards; draft a facilitator guide; pilot one session |
-| [AI constitutions](AI-CONSTITUTIONS.md) | Worked creative encounter, five constitutional questions, three levels of statement, three contexts, fourteen categories of use in six families with cross-cutting axes, template outline | Revisit after the first inquiry sessions; add the sixth question (shared field) and failure variants of the worked encounter |
+| [AI constitutions](AI-CONSTITUTIONS.md) | Restructured as why / what / how: three contexts, fourteen categories of use with axes, eight constitutional topics mapped to the six session questions, layers, three levels of statement, template, build process, archetypes and personas. The worked encounter (now covering all six questions) lives in the inquiry guide | Revisit after the first inquiry sessions; add failure variants of the worked example |
 | [Ten Principles research](research/BEYOND-TEN-PRINCIPLES.md) ([summary](BEYOND-TEN-PRINCIPLES-SUMMARY.md)) | Initial pass dated 2026-09-18; four-dimensional model, cybernetic commitments, Goodhart risks | Test the model against successful and failed cases as inquiry material warrants |
 | [Essays](essays/) | Five thematic essays: regional burns, purchased exemption and images, fire and finitude, gifts and receiving, and what AI is (sincerity over novelty, with the Witness thought experiment) | Draw the pillar briefs from them; verify quotations marked *(verify)* in 04 and 05; consider a scenario card for the Witness |
 | [Membrionics](research/MEMBRIONICS.md) and [research report](research/MEMBRIONICS-RESEARCH.md) | Research pass complete: case dossiers, revised hypotheses, conversion permissions, Hohfeld and formation, Burning Man membrane inventory | Supporting reference; close full-text gaps only where the inquiry needs them |

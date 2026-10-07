@@ -400,7 +400,7 @@ archives from restricted complaint evidence, and name a steward whose duties
 survive shutdown. Retiring credentials and stopping collection can be immediate;
 resolving a complaint may take longer. These are practical consequences of
 finitude, developed in the [research review of grace](../research/MEMBRIONICS-RESEARCH.md#3-hypothesis-review)
-and the [worked AI encounter](../AI-CONSTITUTIONS.md#start-with-an-encounter).
+and the [worked AI encounter](../COLLECTIVE-INQUIRY.md#a-worked-example).
 
 ### 3. Grief Is Not an Optimization Problem
 

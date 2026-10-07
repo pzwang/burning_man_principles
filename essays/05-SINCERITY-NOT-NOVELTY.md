@@ -301,7 +301,7 @@ For most AI-assisted art, the answer is simply "the human artist", and that is
 fine; a tool does not need a perspective of its own. The question of a
 system's own sincerity matters only where AI is presented as an author, an
 interlocutor, or a subject. That is a small part of the [map of AI
-uses](../AI-CONSTITUTIONS.md#categories-of-use), but it is the part that the
+uses](../AI-CONSTITUTIONS.md#what-ai-is-used-for-categories-of-use), but it is the part that the
 next section imagines.
 
 ## Thought Experiment: A Witness Born of the Playa

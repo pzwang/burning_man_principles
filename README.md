@@ -94,11 +94,13 @@ the pillar closest to your own experience, and follow its link in
 | [7. Civic care and repair](PILLARS.md#7-civic-care-and-repair) | Repair rather than punishment | Cheap surveillance, permanent records, blurred responsibility | Which enforcement powers should never be automated? |
 | [8. Many places, one culture](PILLARS.md#8-many-places-one-culture) | A quiet camp and a sound camp ask different things | Portable reputations and data, uniform platforms | Which protections are shared, and which choices are local? |
 
-Two things cut across all eight. First, the container sits inside a
-political economy: tickets, travel, time off, hidden labor, ecological cost,
+Two things cut across all eight pillars.
+
+First, the container sits inside a political economy: tickets, travel, time off, hidden labor, ecological cost,
 and Paiute land shape who gets in and who pays, and AI adds compute, energy,
-and data labor to that bill. Second, the pillars hold one another up. Each
-good quality turns into something worse when the others are missing:
+and data labor to that bill.
+
+Second, the pillars are not strictly independent; they hold one another up. Each good quality turns into something worse when the others are missing:
 
 | This good | without | turns into | For example |
 | --- | --- | --- | --- |
@@ -107,12 +109,13 @@ good quality turns into something worse when the others are missing:
 | A strong boundary | individual agency | **enclosure** | A refuge people cannot shape, question, or leave |
 | Gifts | privacy | **compulsory intimacy** | Every exchange expected to be open, personal, and returned |
 
-[`PILLARS.md`](PILLARS.md#how-the-pillars-interact) explains these
-interactions and why protections themselves need limits.
+[`PILLARS.md`](PILLARS.md#how-the-pillars-interact) explains these interactions and why protections themselves need limits.
 
 ## What AI Could Add
 
-It's not all bad, and we shouldn't only fixate on the downsides. AI might help
+We shouldn't only fixate on the potential downsides of AI. There are many potential benefits.
+
+AI technologies might help
 strangers collaborate across languages, give disabled participants new ways
 to contribute, coordinate a camp's labor so people spend more time together,
 or become a strange new kind of art that participants make and burn. The

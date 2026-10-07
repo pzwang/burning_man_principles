@@ -271,3 +271,31 @@ Entry format:
   ~research/UPDATES-TO-UNMOORED-SELF.md, ~agent.log
 - Open: none new.
 - Commit: this entry's commit (see git log)
+
+## 2026-10-07 | Claude (claude-opus-5-5) | Restructure AI-CONSTITUTIONS.md as why / what / how
+- Did: rewrote AI-CONSTITUTIONS.md for a mixed audience: contents list and an
+  "In short" summary per section. Why (container, definition of a
+  constitution, family not single). What (three contexts; categories of use
+  and axes; eight constitutional topics mapped to the six session questions;
+  layers, three levels of statement with a "no recording" example, template
+  table incl. persona-pilot additions; AI born of the playa). How (mermaid
+  flow, five build steps, archetypes and personas incl. pilot findings, when
+  a draft is ready). "Going deeper" table replaces the Starting Materials
+  pre-read: question-led, with reading times.
+- Did: moved the worked encounter into COLLECTIVE-INQUIRY.md ("A worked
+  example"), adding a sixth-question row; noted remaining scenario gaps.
+  Repointed links in essays 02, 03, 05 and ROADMAP.
+- Files: ~AI-CONSTITUTIONS.md, ~COLLECTIVE-INQUIRY.md, ~ROADMAP.md,
+  ~essays/02, ~essays/03, ~essays/05, ~agent.log
+- Open: reading times are estimates from word counts (~230 wpm). Mermaid
+  diagram renders on GitHub only.
+- Commit: this entry's commit (see git log)
+
+## 2026-10-07 | Claude (claude-opus-5-5) | Clarify axes table in AI-CONSTITUTIONS.md
+- Did: replaced the "Poles" column with "The question it asks", "At one end",
+  and "At the other end"; added a short explanation that each axis is a
+  spectrum, the ends are not good/bad, and the right-hand end usually calls
+  for more scrutiny.
+- Files: ~AI-CONSTITUTIONS.md, ~agent.log
+- Open: none new.
+- Commit: this entry's commit (see git log)

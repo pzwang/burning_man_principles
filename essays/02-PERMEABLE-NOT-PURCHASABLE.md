@@ -335,7 +335,7 @@ activity, and who must repair its consequences. Apply those limits to the
 operator and sponsors as well as the model. A consent screen cannot supply
 powers its designer never had.
 
-[The worked encounter in the AI brief](../AI-CONSTITUTIONS.md#start-with-an-encounter)
+[The worked example in the inquiry guide](../COLLECTIVE-INQUIRY.md#a-worked-example)
 shows how to translate this into an agreement. The purpose is to leave the
 creative outcome open while making the consequential permissions explicit.
 
