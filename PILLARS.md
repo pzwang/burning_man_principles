@@ -93,7 +93,7 @@ gets made.
   every encounter.
 - **Questions to probe:** Even if everyone consents, what does this system do to shared
   attention and to what gets made?
-- **Read:** [`essays/04-GIFTS-AND-COMMODITIES.md`](essays/04-GIFTS-AND-COMMODITIES.md) §§4, 6.
+- **Read:** [`essays/04-GIFTS-AND-COMMODITIES.md`](essays/04-GIFTS-AND-COMMODITIES.md) §§3, 5.
 
 ## 7. Civic care and repair
 

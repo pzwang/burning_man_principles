@@ -299,3 +299,19 @@ Entry format:
 - Files: ~AI-CONSTITUTIONS.md, ~agent.log
 - Open: none new.
 - Commit: this entry's commit (see git log)
+
+## 2026-10-07 | Claude (claude-opus-5-5) | Make essay 04 (gifts) more approachable
+- Did: restructured essays/04-GIFTS-AND-COMMODITIES.md from research-article
+  form into a readable essay without dropping content: opening scene (two
+  people, one drink; illustrative, not reported), "In short" bullets, thesis,
+  reading guide and contents. Argument now runs receiver-first (Velveteen
+  Rabbit, Hyde's test, Frost) -> why receiving is hard (commodity default,
+  Cypher, Azuma, fan gift cultures) -> seven conditions -> four playa
+  readings -> diversion/counterflow -> AI -> mechanisms (now a table) ->
+  cautions and open questions. Literature table, Kopytoff/Marx/Benjamin, and
+  Baudrillard's books moved to a "Going deeper" appendix with sources. Bare
+  "02" references became links. All (verify) markers kept.
+- Did: updated PILLARS.md section pointer for essay 04 (§§4, 6 -> §§3, 5).
+- Files: ~essays/04-GIFTS-AND-COMMODITIES.md, ~PILLARS.md, ~agent.log
+- Open: the opening vignette is new framing; check it fits the author's voice.
+- Commit: this entry's commit (see git log)
