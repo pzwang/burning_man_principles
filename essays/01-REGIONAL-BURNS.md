@@ -2,10 +2,9 @@
 
 ## Regional Burns Through the Four-Dimensional Model
 
-This essay extends the provisional model in
+*This essay extends the four-dimensional model in
 [`BEYOND-TEN-PRINCIPLES.md`](../research/BEYOND-TEN-PRINCIPLES.md): protective membrane, plural agency,
-reciprocal co-creation, and attentional resonance with repair. It treats the
-model as a comparative lens, not a scorecard.
+reciprocal co-creation, and attentional resonance with repair.*
 
 ## Not Smaller Copies
 
@@ -17,7 +16,7 @@ Black Rock City is uniquely capable of producing radical spatial rupture,
 improbable encounters, city-scale creative variety, and mass ritual. Regionals
 can sometimes produce denser reciprocity, more legible individual agency,
 locally adapted governance, lower geographic barriers, and better continuity
-into ordinary life. Neither advantage is automatic. Smallness can mean intimacy
+into ordinary life. Each has its trade-offs. Smallness can mean intimacy
 or cliquishness; decentralization can mean agency or unaccountable power;
 spectacle can synchronize attention or turn participants into consumers.
 
@@ -41,6 +40,8 @@ least four forms:
 
 This diversity is not dilution. If the Ten Principles were created to make an
 emergent culture portable, then local mutation is part of the experiment.
+
+Let's now look at the differences between BRC and regionals through the four pillars.
 
 ## 1. Protective Membrane
 
@@ -81,12 +82,11 @@ who can reach and safely inhabit the interior.
 
 **Provisional comparison:** BRC probably creates the thickest
 *spatial-symbolic* membrane. A small Regional can create a thicker *relational*
-membrane. These are different forms of containment and should be evaluated
-separately.
+membrane. These are different forms of containment and not directly comparable.
 
 ## 2. Plural Agency
 
-BRC is unmatched in option density. Its 2023 city held 383 registered art
+BRC is unmatched in density and variety of options. Its 2023 city held 383 registered art
 projects and 1,242 theme camps and villages, alongside mutant vehicles, civic
 departments, and work from many countries. A participant can move among roles:
 artist, mechanic, mourner, dancer, Ranger, cook, provocateur, student, caregiver,
@@ -116,9 +116,9 @@ more consequence because there are fewer substitutes.
 
 But do-ocracy is not automatically democratic. People with leisure, money,
 confidence, technical fluency, mobility, or long-standing friendships can act
-before others can deliberate. "Anyone can do it" can conceal the unequal
+more easily and quickly than others. "Anyone can do it" can conceal the unequal
 capacity to do. Small groups can also make stylistic conformity more powerful:
-there may be many tasks but only one socially accepted way to Burn.
+there may be many tasks but only one socially accepted "way" to Burn.
 
 **Provisional comparison:** BRC maximizes the *range* of possible agencies.
 Smaller, decentralized Regionals may maximize the *probability that one person's
@@ -132,12 +132,12 @@ further contribution.
 
 At BRC, theme camps, build crews, art teams, and departments act as intermediate
 social cells. They make a metropolis relationally inhabitable. The scale also
-supports forms of coordination few Regionals could reproduce. Burning Man's
+supports forms of coordination that few Regionals could reproduce. Burning Man's
 2019 annual report described roughly 10,000 volunteers, approximately 850
 Rangers, and more than 400 artworks. Black Rock City demonstrates that a gift
 ecology can produce city-scale infrastructure, not only intimate exchange.
 
-The same scale dilutes response. A gift can become one more attraction among
+The same scale also dilutes response. A gift can become one more attraction among
 thousands. A participant may experience a monumental work without ever meeting
 its makers, seeing its maintenance, or understanding the relationships which
 produced it. Spectacular gifts can accumulate status and reproduce class

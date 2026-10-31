@@ -48,7 +48,7 @@ can count and attribute tends to become the effective constitution.
 
 The provisional model proposes four interdependent dimensions:
 
-| Dimension | What it does | Failure poles |
+| Dimension | What it does | Failure modes |
 | --- | --- | --- |
 | **Protective membrane** | Separates participants from default scripts; open to persons, selective toward conduct; provides backstage space | Enclosure and purity / boundary collapse and capture |
 | **Plural agency** | Keeps participants capable, different, able to refuse and leave; self-reliance as **capable interdependence**, including being capable of needing | Consumer dependency / atomized expressive sovereignty |
@@ -104,15 +104,15 @@ The research proposes ten candidate commitments to test, not adopt:
 
 Two further warnings shape the constitution work:
 
-- **The serendipity trap.** A system that selects "spontaneous" encounters to
-  produce predicted effects manages openness rather than protecting it. Better
+- **The serendipity trap.** A system that selects "spontaneous" encounters in order to
+  produce predicted effects will end up managing openness rather than protecting it. It's better
   to create clearings: unallocated time, mixed proximity, safe refusal, and
   incomplete scripts.
 - **Goodhart risks.** Optimizing proxies for gifting, participation,
-  inclusion, community, or immediacy corrupts them: swag, busywork, tokenism,
+  inclusion, community, or immediacy can ultimately corrupts them: swag, busywork, tokenism,
   forced sociability, purity theater. Enforcement is itself a feedback system,
   so due process, local judgment, graduated sanctions, and sunset clauses are
-  substance, not administration.
+  a substantive part of the process, not merely administration.
 
 ## Where It Leads
 
@@ -123,6 +123,5 @@ The research's compressed hypothesis:
 > embodied attention on one another; and closes material and social feedback
 > loops through care, repair, and accountable limits.
 
-The [pillars](PILLARS.md) build on this model. They add gift and
-receiving, fire and finitude, ritual, and the plurality of places as distinct
-lenses developed in the [essays](essays/).
+The [pillars](PILLARS.md) document builds on this model.  Additional [essays](essays/) add distinct lenses: gift and
+receiving, fire and finitude, ritual, and the plurality of places.
